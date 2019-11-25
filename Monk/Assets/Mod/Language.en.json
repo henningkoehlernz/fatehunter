@@ -1,0 +1,30 @@
+{
+    "items": [
+        {
+            "key": "MonkTitle",
+            "value": "Monk"
+        },
+        {
+            "key": "MonkText",
+            "value": "A lightning quick warrior that showers his opponents with unarmed strikes."
+        },
+        {
+            "key": "MonkAbilityText",
+            "value": "Draws 6 cards each round."
+        },
+        {
+            "key": "UnarmedStrikeTitle",
+            "value": "Unarmed Strike"
+        },
+        {
+            "key": "UnarmedStrikeText",
+            "value": "<b>Permanent.</b> Deal 1 damage to a creature."
+        }
+    ],
+    "abilities": [
+        {
+            "key": "MonkAbilityText",
+            "value": "Draws 6 cards each round."
+        }
+    ]
+}
