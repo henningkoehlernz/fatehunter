@@ -19,6 +19,38 @@
         {
             "key": "UnarmedStrikeText",
             "value": "<b>Permanent.</b> Deal 1 damage to a creature."
+        },
+        {
+            "key": "UnarmedStrike1UTitle",
+            "value": "Unarmed Strike +1"
+        },
+        {
+            "key": "UnarmedStrike1UText",
+            "value": "<b>Permanent.</b> Deal 1-2 damage to a creature."
+        },
+        {
+            "key": "UnarmedStrike2UTitle",
+            "value": "Unarmed Strike +2"
+        },
+        {
+            "key": "UnarmedStrike2UText",
+            "value": "<b>Permanent.</b> Deal 2 damage to a creature."
+        },
+        {
+            "key": "UnarmedStrike3UTitle",
+            "value": "Unarmed Strike +3"
+        },
+        {
+            "key": "UnarmedStrike3UText",
+            "value": "<b>Permanent.</b> Deal 3 damage to a creature."
+        },
+        {
+            "key": "ImprovedUnarmedStrikeTitle",
+            "value": "Improved Unarmed Strike"
+        },
+        {
+            "key": "ImprovedUnarmedStrikeText",
+            "value": "<b>One Use.</b> Upgrade all unarmed strikes."
         }
     ],
     "abilities": [

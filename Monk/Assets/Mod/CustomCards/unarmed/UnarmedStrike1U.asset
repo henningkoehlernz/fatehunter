@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88fef69b49fcba240b36f7a3a717cc53, type: 3}
+  m_Name: UnarmedStrike1U
+  m_EditorClassIdentifier: 
+  path: Assets/Mod/CustomCards/unarmed/UnarmedStrike1U.asset
+  modId: 
+  localizationKey: 
+  material: {fileID: 2100000, guid: 3d5efe15a11e54430be645ce2e0876d1, type: 2}
+  gold: 0
+  price: 0
+  type: 2
+  additionalType: 0
+  rarity: 0
+  upgrade: {fileID: 11400000, guid: ecabe93cf43c841c4a2b8f8bd6c10f37, type: 2}
+  downgrade: {fileID: 0}
+  handLock: 0
+  limited: 0
+  canBeExiled: 0
+  actions:
+  - {fileID: 11400000, guid: 57a5a93630abb4fb1a3f8e3a9b7e2dba, type: 2}
+  ultimateActions: []
+  onStartTurnActions: []
+  onEndTurnActions: []
+  onRoomChangedActions: []
+  onCardPlayedActions: []
+  discardActions: []
+  onTakeDamageActions: []
+  onDeathActions: []
+  auras: []
+  possibleCards: []
+  actionAfterPlaying: 0
+  vfxType: 0
+  playSfx: {fileID: 0}

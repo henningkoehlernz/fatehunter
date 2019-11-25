@@ -9,9 +9,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 88fef69b49fcba240b36f7a3a717cc53, type: 3}
-  m_Name: UnarmedStrike
+  m_Name: UnarmedStrike2U
   m_EditorClassIdentifier: 
-  path: Assets/Mod/CustomCards/UnarmedStrike.asset
+  path: Assets/Mod/CustomCards/unarmed/UnarmedStrike2U.asset
   modId: 
   localizationKey: 
   material: {fileID: 2100000, guid: 3d5efe15a11e54430be645ce2e0876d1, type: 2}
@@ -20,13 +20,13 @@ MonoBehaviour:
   type: 2
   additionalType: 0
   rarity: 0
-  upgrade: {fileID: 0}
+  upgrade: {fileID: 11400000, guid: 58691c92dd96a4c87a20abfa8eb1deb5, type: 2}
   downgrade: {fileID: 0}
   handLock: 0
   limited: 0
   canBeExiled: 0
   actions:
-  - {fileID: 11400000, guid: 4d3906e2983eb2948a16895f34245349, type: 2}
+  - {fileID: 11400000, guid: ffd07d7eee5ed4aa69ea33c2e5ec839f, type: 2}
   ultimateActions: []
   onStartTurnActions: []
   onEndTurnActions: []

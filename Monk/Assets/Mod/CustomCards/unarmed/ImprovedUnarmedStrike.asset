@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88fef69b49fcba240b36f7a3a717cc53, type: 3}
+  m_Name: ImprovedUnarmedStrike
+  m_EditorClassIdentifier: 
+  path: Assets/Mod/CustomCards/unarmed/ImprovedUnarmedStrike.asset
+  modId: 
+  localizationKey: 
+  material: {fileID: 2100000, guid: e2ba610d88e2f48818e1d0466d0e9560, type: 2}
+  gold: 0
+  price: 0
+  type: 2
+  additionalType: 9
+  rarity: 2
+  upgrade: {fileID: 0}
+  downgrade: {fileID: 0}
+  handLock: 0
+  limited: 0
+  canBeExiled: 1
+  actions:
+  - {fileID: 11400000, guid: 65d92a53887644838a2373a0ecdd5df6, type: 2}
+  - {fileID: 11400000, guid: 24b6cd2bd163d498f81084147cf49855, type: 2}
+  - {fileID: 11400000, guid: b21321ed58eb9400a8ad9734d6a4a168, type: 2}
+  - {fileID: 11400000, guid: edfcac0625556492095c9aa1bb688e1e, type: 2}
+  ultimateActions: []
+  onStartTurnActions: []
+  onEndTurnActions: []
+  onRoomChangedActions: []
+  onCardPlayedActions: []
+  discardActions: []
+  onTakeDamageActions: []
+  onDeathActions: []
+  auras: []
+  possibleCards: []
+  actionAfterPlaying: 1
+  vfxType: 5
+  playSfx: {fileID: 0}
