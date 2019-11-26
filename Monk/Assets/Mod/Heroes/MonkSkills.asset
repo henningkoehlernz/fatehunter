@@ -14,7 +14,7 @@ MonoBehaviour:
   path: Assets/Mod/Heroes/MonkSkills.asset
   modId: 
   cards:
-  - {fileID: 11400000, guid: e02bcecdd74c29f45b07f05cc7fd55c4, type: 2}
+  - {fileID: 11400000, guid: 4ea09c997b9ce4d0095a4988088deffa, type: 2}
   - {fileID: 11400000, guid: 37a36fbc9ebfdbe4ba60592b1d6ec0d5, type: 2}
   - {fileID: 11400000, guid: 7f96634d9cd0daf4197ab0c604501a94, type: 2}
   - {fileID: 11400000, guid: 92dea77e8d2cfac4eab4e5be3f98b2db, type: 2}

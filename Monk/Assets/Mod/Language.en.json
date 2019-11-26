@@ -42,7 +42,7 @@
         },
         {
             "key": "UnarmedStrike3UText",
-            "value": "<b>Permanent.</b> Deal 3 damage to a creature."
+            "value": "<b>Permanent.</b> Deal 2-3 damage to a creature."
         },
         {
             "key": "ImprovedUnarmedStrikeTitle",
@@ -59,6 +59,22 @@
         {
             "key": "PerfectSelfText",
             "value": "<b>One Use.</b> Increase max HP by 1. Delve 2 skills."
+        },
+        {
+            "key": "FlurryOfBlowsTitle",
+            "value": "Flurry of Blows"
+        },
+        {
+            "key": "FlurryOfBlowsText",
+            "value": "Deal 1 damage to all opponents."
+        },
+        {
+            "key": "InfernalContractMonkTitle",
+            "value": "Infernal Contract"
+        },
+        {
+            "key": "InfernalContractMonkText",
+            "value": "<b>One Use.</b> Delve 5 skills. Decrease max HP by 2."
         }
     ],
     "abilities": [

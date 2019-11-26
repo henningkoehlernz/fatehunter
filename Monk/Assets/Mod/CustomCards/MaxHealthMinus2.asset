@@ -8,8 +8,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 062f5994c445c47d998909f190e52387, type: 3}
-  m_Name: ChooseMonkSkills
+  m_Script: {fileID: 11500000, guid: 0b1ee796e4d9b4ecc8c6136199867b72, type: 3}
+  m_Name: MaxHealthMinus2
   m_EditorClassIdentifier: 
   probability: 1
   targets:
@@ -31,8 +31,6 @@ MonoBehaviour:
   actionConditions: []
   playerPhrase: 
   hidden: 0
-  count: 2
-  chosenCard: 0
-  otherCards: 0
-  cardSelectors: []
-  collection: {fileID: 11400000, guid: df683f5e59af94de4b9c6f53b1e9bd70, type: 2}
+  actionType: 2
+  value: 2
+  valueSelectors: []

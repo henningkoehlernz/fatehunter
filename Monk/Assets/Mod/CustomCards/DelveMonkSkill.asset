@@ -8,15 +8,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9ccf07e26b85b284883d3d3a2e30ba7b, type: 3}
-  m_Name: DealDamUS3
+  m_Script: {fileID: 11500000, guid: 062f5994c445c47d998909f190e52387, type: 3}
+  m_Name: DelveMonkSkill
   m_EditorClassIdentifier: 
   probability: 1
   targets:
     targetSelection: 0
     possibleTargets:
-    - owner: 1
-      targetType: 1
+    - owner: 0
+      targetType: 0
       creatureType: 0
       nonCreatureType: 0
   targetAttackRange:
@@ -31,9 +31,8 @@ MonoBehaviour:
   actionConditions: []
   playerPhrase: 
   hidden: 0
-  mode: 0
-  value:
-    min: 2
-    max: 3
-  valueSelectors: []
-  criticalStrike: 0
+  count: 1
+  chosenCard: 0
+  otherCards: 2
+  cardSelectors: []
+  collection: {fileID: 11400000, guid: df683f5e59af94de4b9c6f53b1e9bd70, type: 2}
