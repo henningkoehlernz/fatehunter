@@ -69,6 +69,14 @@
             "value": "Deal 1 damage to all opponents."
         },
         {
+            "key": "StunningFistTitle",
+            "value": "Stunning Fist"
+        },
+        {
+            "key": "StunningFistText",
+            "value": "Deal 2 damage and stun creature."
+        },
+        {
             "key": "InfernalContractMonkTitle",
             "value": "Infernal Contract"
         },
