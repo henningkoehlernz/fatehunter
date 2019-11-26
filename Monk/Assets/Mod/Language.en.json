@@ -51,6 +51,14 @@
         {
             "key": "ImprovedUnarmedStrikeText",
             "value": "<b>One Use.</b> Upgrade all unarmed strikes."
+        },
+        {
+            "key": "PerfectSelfTitle",
+            "value": "Perfect Self"
+        },
+        {
+            "key": "PerfectSelfText",
+            "value": "<b>One Use.</b> Increase max HP by 1. Delve 2 skills."
         }
     ],
     "abilities": [
