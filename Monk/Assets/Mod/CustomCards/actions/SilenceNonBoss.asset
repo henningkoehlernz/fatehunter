@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 614f1bbff27d044449d8f988a1a330e0, type: 3}
+  m_Name: SilenceNonBoss
+  m_EditorClassIdentifier: 
+  probability: 1
+  targets:
+    targetSelection: 0
+    possibleTargets:
+    - owner: 1
+      targetType: 1
+      creatureType: 1
+      nonCreatureType: 1
+  targetAttackRange:
+    min: 0
+    max: 2147483647
+  targetHealthRange:
+    min: 0
+    max: 2147483647
+  playerHealthRange:
+    min: 0
+    max: 2147483647
+  actionConditions: []
+  playerPhrase: 
+  hidden: 0

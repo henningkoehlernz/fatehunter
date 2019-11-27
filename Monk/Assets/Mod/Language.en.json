@@ -101,6 +101,14 @@
             "value": "Deal 2 damage and reduce the attack of a creature by 1."
         },
         {
+            "key": "QuiveringPalmTitle",
+            "value": "Quivering Palm"
+        },
+        {
+            "key": "QuiveringPalmText",
+            "value": "Deal 1 damage and silence non-boss creature."
+        },
+        {
             "key": "InfernalContractMonkTitle",
             "value": "Infernal Contract"
         },
