@@ -109,6 +109,14 @@
             "value": "Deal 1 damage and silence non-boss creature."
         },
         {
+            "key": "WholenessOfBodyTitle",
+            "value": "Wholeness of Body"
+        },
+        {
+            "key": "WholenessOfBodyText",
+            "value": "Heal 3 HP."
+        },
+        {
             "key": "InfernalContractMonkTitle",
             "value": "Infernal Contract"
         },
