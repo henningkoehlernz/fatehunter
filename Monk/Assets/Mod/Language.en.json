@@ -82,7 +82,7 @@
         },
         {
             "key": "PerfectStrikeText",
-            "value": "<b>Critical Strike.</b> Deal 3 damage to a creature."
+            "value": "<b>Critical Strike.</b> Deal 1 damage twice."
         },
         {
             "key": "UppercutTitle",
@@ -109,6 +109,14 @@
             "value": "Deal 1 damage and silence non-boss creature."
         },
         {
+            "key": "KiStrikeTitle",
+            "value": "Ki Strike"
+        },
+        {
+            "key": "KiStrikeText",
+            "value": "<b>Reserve.</b> Deal 2 damage to a creature."
+        },
+        {
             "key": "WholenessOfBodyTitle",
             "value": "Wholeness of Body"
         },
@@ -126,6 +134,10 @@
         }
     ],
     "abilities": [
+        {
+            "key": "MonkAbilityTitle",
+            "value": "Fast Movement"
+        },
         {
             "key": "MonkAbilityText",
             "value": "Draws 6 cards each round."
