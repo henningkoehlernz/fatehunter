@@ -66,7 +66,7 @@
         },
         {
             "key": "FlurryOfBlowsText",
-            "value": "Deal 1 damage to all opponents."
+            "value": "Deal 2 damage to all opponents."
         },
         {
             "key": "StunningFistTitle",
@@ -75,6 +75,14 @@
         {
             "key": "StunningFistText",
             "value": "Deal 2 damage and stun creature."
+        },
+        {
+            "key": "PerfectStrikeTitle",
+            "value": "Perfect Strike"
+        },
+        {
+            "key": "PerfectStrikeText",
+            "value": "<b>Critical Strike.</b> Deal 3 damage to a creature."
         },
         {
             "key": "InfernalContractMonkTitle",
