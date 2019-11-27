@@ -9,28 +9,27 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 88fef69b49fcba240b36f7a3a717cc53, type: 3}
-  m_Name: PerfectSelf
+  m_Name: FastHealing
   m_EditorClassIdentifier: 
-  path: Assets/Mod/CustomCards/PerfectSelf.asset
+  path: Assets/Mod/CustomCards/FastHealing.asset
   modId: 
   localizationKey: 
-  material: {fileID: 2100000, guid: df00299e42d49c2438f7c1792c3194eb, type: 2}
+  material: {fileID: 2100000, guid: 489da911f6e40154b875564e415885f2, type: 2}
   gold: 0
   price: 0
   type: 2
-  additionalType: 9
-  rarity: 2
+  additionalType: 0
+  rarity: 0
   upgrade: {fileID: 0}
   downgrade: {fileID: 0}
   handLock: 0
   limited: 0
-  canBeExiled: 1
-  actions:
-  - {fileID: 11400000, guid: 4278cd1c555a743158ddc67fb3fd2d5a, type: 2}
-  - {fileID: 11400000, guid: d88896e0fe42d4d8187cf00b7b3650c0, type: 2}
+  canBeExiled: 0
+  actions: []
   ultimateActions: []
   onStartTurnActions: []
-  onEndTurnActions: []
+  onEndTurnActions:
+  - {fileID: 11400000, guid: 1d08080dac8dd4f0182229295d96d267, type: 2}
   onRoomChangedActions: []
   onCardPlayedActions: []
   discardActions: []
@@ -39,5 +38,5 @@ MonoBehaviour:
   auras: []
   possibleCards: []
   actionAfterPlaying: 0
-  vfxType: 5
+  vfxType: 2
   playSfx: {fileID: 0}

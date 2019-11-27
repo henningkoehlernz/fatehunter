@@ -58,7 +58,15 @@
         },
         {
             "key": "PerfectSelfText",
-            "value": "Take 10 damage. Raise max HP by 1."
+            "value": "Raise max HP by 1. Gain fast healing."
+        },
+        {
+            "key": "FastHealingTitle",
+            "value": "Fast Healing"
+        },
+        {
+            "key": "FastHealingText",
+            "value": "<b>Permanent. Unplayable.</b> At end of turn heal 1 HP."
         },
         {
             "key": "FastMovementTitle",
