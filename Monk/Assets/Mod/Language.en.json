@@ -58,7 +58,15 @@
         },
         {
             "key": "PerfectSelfText",
-            "value": "<b>One Use.</b> Increase max HP by 1. Delve 2 skills."
+            "value": "Take 10 damage. Raise max HP by 1."
+        },
+        {
+            "key": "FastMovementTitle",
+            "value": "FastMovement"
+        },
+        {
+            "key": "FastMovementText",
+            "value": "<b>Limited.</b> Draw 3 cards."
         },
         {
             "key": "FlurryOfBlowsTitle",
@@ -82,7 +90,7 @@
         },
         {
             "key": "PerfectStrikeText",
-            "value": "<b>Critical Strike.</b> Deal 1 damage twice."
+            "value": "<b>Critical Strike.</b> Deal 2-4 damage to a creature."
         },
         {
             "key": "UppercutTitle",

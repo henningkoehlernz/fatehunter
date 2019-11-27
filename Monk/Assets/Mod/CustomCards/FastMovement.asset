@@ -9,24 +9,24 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 88fef69b49fcba240b36f7a3a717cc53, type: 3}
-  m_Name: PerfectStrike
+  m_Name: FastMovement
   m_EditorClassIdentifier: 
-  path: Assets/Mod/CustomCards/PerfectStrike.asset
+  path: Assets/Mod/CustomCards/FastMovement.asset
   modId: 
   localizationKey: 
-  material: {fileID: 2100000, guid: 41acadaabc94645ec8397a68bfecbcf0, type: 2}
+  material: {fileID: 2100000, guid: 24520ae8e534e441ca4090c4999f69d0, type: 2}
   gold: 0
   price: 0
   type: 2
-  additionalType: 0
-  rarity: 0
+  additionalType: 9
+  rarity: 2
   upgrade: {fileID: 0}
   downgrade: {fileID: 0}
   handLock: 0
-  limited: 0
+  limited: 1
   canBeExiled: 1
   actions:
-  - {fileID: 11400000, guid: 181dafede299e42579a1a6597ab8d0ac, type: 2}
+  - {fileID: 11400000, guid: 68208b8aedf384f74a6ff1861f14d053, type: 2}
   ultimateActions: []
   onStartTurnActions: []
   onEndTurnActions: []

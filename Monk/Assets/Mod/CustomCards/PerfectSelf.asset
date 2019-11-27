@@ -26,9 +26,8 @@ MonoBehaviour:
   limited: 0
   canBeExiled: 1
   actions:
+  - {fileID: 11400000, guid: 13affebf18b1747f79f288acad3a8afe, type: 2}
   - {fileID: 11400000, guid: 4278cd1c555a743158ddc67fb3fd2d5a, type: 2}
-  - {fileID: 11400000, guid: 28bf9ebc2d18c46bd95a8f191a1ab81b, type: 2}
-  - {fileID: 11400000, guid: 28bf9ebc2d18c46bd95a8f191a1ab81b, type: 2}
   ultimateActions: []
   onStartTurnActions: []
   onEndTurnActions: []
@@ -39,6 +38,6 @@ MonoBehaviour:
   onDeathActions: []
   auras: []
   possibleCards: []
-  actionAfterPlaying: 1
-  vfxType: 0
+  actionAfterPlaying: 0
+  vfxType: 5
   playSfx: {fileID: 0}

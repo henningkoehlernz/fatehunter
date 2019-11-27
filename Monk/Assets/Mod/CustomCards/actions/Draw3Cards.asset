@@ -8,15 +8,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9ccf07e26b85b284883d3d3a2e30ba7b, type: 3}
-  m_Name: Damage1Crit
+  m_Script: {fileID: 11500000, guid: f2f7d83d225f44159813758837bbe1c3, type: 3}
+  m_Name: Draw3Cards
   m_EditorClassIdentifier: 
   probability: 1
   targets:
     targetSelection: 0
     possibleTargets:
-    - owner: 1
-      targetType: 1
+    - owner: 0
+      targetType: 0
       creatureType: 0
       nonCreatureType: 0
   targetAttackRange:
@@ -31,9 +31,7 @@ MonoBehaviour:
   actionConditions: []
   playerPhrase: 
   hidden: 0
-  mode: 0
-  value:
-    min: 1
-    max: 1
-  valueSelectors: []
-  criticalStrike: 1
+  cardSelectors:
+  - {fileID: 11400000, guid: d2816fa0735ef4527aa56b96c8554db9, type: 2}
+  - {fileID: 11400000, guid: d2816fa0735ef4527aa56b96c8554db9, type: 2}
+  - {fileID: 11400000, guid: d2816fa0735ef4527aa56b96c8554db9, type: 2}
