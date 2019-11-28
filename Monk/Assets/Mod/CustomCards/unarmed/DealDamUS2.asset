@@ -33,7 +33,7 @@ MonoBehaviour:
   hidden: 0
   mode: 0
   value:
-    min: 2
-    max: 2
+    min: 1
+    max: 3
   valueSelectors: []
   criticalStrike: 0

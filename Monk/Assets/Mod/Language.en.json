@@ -34,7 +34,7 @@
         },
         {
             "key": "UnarmedStrike2UText",
-            "value": "<b>Permanent.</b> Deal 2 damage to a creature."
+            "value": "<b>Permanent.</b> Deal 1-3 damage to a creature."
         },
         {
             "key": "UnarmedStrike3UTitle",
@@ -42,7 +42,7 @@
         },
         {
             "key": "UnarmedStrike3UText",
-            "value": "<b>Permanent.</b> Deal 2-3 damage to a creature."
+            "value": "<b>Permanent.</b> Deal 2-4 damage to a creature."
         },
         {
             "key": "ImprovedUnarmedStrikeTitle",
