@@ -147,9 +147,7 @@
         {
             "key": "InfernalContractMonkText",
             "value": "<b>One Use.</b> Delve 5 skills. Decrease max HP by 2."
-        }
-    ],
-    "abilities": [
+        },
         {
             "key": "MonkAbilityTitle",
             "value": "Fast Movement"
