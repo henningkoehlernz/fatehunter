@@ -69,12 +69,12 @@
             "value": "<b>Permanent. Unplayable.</b> At end of turn heal 1 HP."
         },
         {
-            "key": "FastMovementTitle",
-            "value": "Fast Movement"
+            "key": "GreaterFlurryTitle",
+            "value": "Greater Flurry"
         },
         {
-            "key": "FastMovementText",
-            "value": "<b>Limited.</b> Draw 3 cards."
+            "key": "GreaterFlurryText",
+            "value": "Return all unarmed strikes to your hand."
         },
         {
             "key": "FlurryOfBlowsTitle",
@@ -82,7 +82,7 @@
         },
         {
             "key": "FlurryOfBlowsText",
-            "value": "Deal 2 damage to all creatures."
+            "value": "Deal 1-2 damage to all creatures."
         },
         {
             "key": "StunningFistTitle",
