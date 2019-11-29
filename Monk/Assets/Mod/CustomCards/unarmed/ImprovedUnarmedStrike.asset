@@ -29,7 +29,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 65d92a53887644838a2373a0ecdd5df6, type: 2}
   - {fileID: 11400000, guid: 24b6cd2bd163d498f81084147cf49855, type: 2}
   - {fileID: 11400000, guid: b21321ed58eb9400a8ad9734d6a4a168, type: 2}
-  - {fileID: 11400000, guid: edfcac0625556492095c9aa1bb688e1e, type: 2}
   ultimateActions: []
   onStartTurnActions: []
   onEndTurnActions: []

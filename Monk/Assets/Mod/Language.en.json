@@ -50,7 +50,7 @@
         },
         {
             "key": "ImprovedUnarmedStrikeText",
-            "value": "<b>One Use.</b> Upgrade all unarmed strikes."
+            "value": "<b>One Use.</b> Draw and upgrade all unarmed strikes."
         },
         {
             "key": "PerfectSelfTitle",
@@ -74,7 +74,7 @@
         },
         {
             "key": "GreaterFlurryText",
-            "value": "Return all unarmed strikes to your hand."
+            "value": "Draw all unarmed strikes."
         },
         {
             "key": "FlurryOfBlowsTitle",
