@@ -14,6 +14,7 @@ MonoBehaviour:
   path: Assets/Mod/CustomCards/KiStrike.asset
   modId: 
   localizationKey: 
+  additionalKeywords: []
   material: {fileID: 2100000, guid: b0118a979a247374db8a95d22ac705b7, type: 2}
   gold: 0
   price: 0
@@ -26,7 +27,7 @@ MonoBehaviour:
   limited: 0
   canBeExiled: 1
   actions:
-  - {fileID: 11400000, guid: 39e72a8b6684d4d15b7c62536f01978b, type: 2}
+  - {fileID: 11400000, guid: 84aa062fad61b4d6a9b62a6d4dfab214, type: 2}
   ultimateActions: []
   onStartTurnActions: []
   onEndTurnActions: []
