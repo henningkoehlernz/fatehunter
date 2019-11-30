@@ -14,6 +14,8 @@ MonoBehaviour:
   path: Assets/Mod/CustomCards/unarmed/ImprovedUnarmedStrike.asset
   modId: 
   localizationKey: 
+  additionalKeywords:
+  - {fileID: 11400000, guid: 599823c32c6a84071a2a7d7d7ec8e400, type: 2}
   material: {fileID: 2100000, guid: e2ba610d88e2f48818e1d0466d0e9560, type: 2}
   gold: 0
   price: 0
