@@ -14,6 +14,7 @@ MonoBehaviour:
   path: Assets/Mod/Heroes/Monk.asset
   modId: 
   localizationKey: 
+  additionalKeywords: []
   material: {fileID: 2100000, guid: 8e202d0f965d9416a94ef852c1a647a5, type: 2}
   gold: 0
   price: 0

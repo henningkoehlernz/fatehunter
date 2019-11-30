@@ -2,163 +2,163 @@
     "items": [
         {
             "key": "MonkTitle",
-            "value": "Monk"
+            "value": "Mönch"
         },
         {
             "key": "MonkText",
-            "value": "A lightning quick warrior that showers his opponents with unarmed strikes."
+            "value": "Ein Meister des Kung-Fu der keine Waffen benötigt."
         },
         {
             "key": "MonkAbilityTitle",
-            "value": "Fast Movement"
+            "value": "Schnelle Bewegung"
         },
         {
             "key": "MonkAbilityText",
-            "value": "Draws 6 cards each round."
+            "value": "Zieht jede Runde 6 Karten."
         },
         {
             "key": "UnarmedStrikeTitle",
-            "value": "Unarmed Strike"
+            "value": "Kung-Fu"
         },
         {
             "key": "UnarmedStrikeText",
-            "value": "<b>Permanent.</b> Deal 1 damage to a creature."
+            "value": "<b>Permanent.</b> Füge einer Kreatur 1 Schaden zu."
         },
         {
             "key": "KeyUnarmedStrikeTitle",
-            "value": "Unarmed Strike"
+            "value": "Kung-Fu"
         },
         {
             "key": "KeyUnarmedStrikeText",
-            "value": "+1: 1-2 damage.\n+2: 1-3 damage.\n+3: 2-4 damage."
+            "value": "+1: 1-2 Schaden.\n+2: 1-3 Schaden.\n+3: 2-4 Schaden."
         },
         {
             "key": "UnarmedStrike1UTitle",
-            "value": "Unarmed Strike +1"
+            "value": "Kung-Fu +1"
         },
         {
             "key": "UnarmedStrike1UText",
-            "value": "<b>Permanent.</b> Deal 1-2 damage to a creature."
+            "value": "<b>Permanent.</b> Füge einer Kreatur 1-2 Schaden zu."
         },
         {
             "key": "UnarmedStrike2UTitle",
-            "value": "Unarmed Strike +2"
+            "value": "Kung-Fu +2"
         },
         {
             "key": "UnarmedStrike2UText",
-            "value": "<b>Permanent.</b> Deal 1-3 damage to a creature."
+            "value": "<b>Permanent.</b> Füge einer Kreatur 1-3 Schaden zu."
         },
         {
             "key": "UnarmedStrike3UTitle",
-            "value": "Unarmed Strike +3"
+            "value": "Kung-Fu +3"
         },
         {
             "key": "UnarmedStrike3UText",
-            "value": "<b>Permanent.</b> Deal 2-4 damage to a creature."
+            "value": "<b>Permanent.</b> Füge einer Kreatur 2-4 Schaden zu."
         },
         {
             "key": "ImprovedUnarmedStrikeTitle",
-            "value": "Improved Unarmed Strike"
+            "value": "Shaolin Meister"
         },
         {
             "key": "ImprovedUnarmedStrikeText",
-            "value": "<b>One Use.</b> Draw and upgrade all unarmed strikes."
+            "value": "<b>Einmal Verwendbar.</b> Ziehe alle Kung-Fu Karten und verbessere sie."
         },
         {
             "key": "PerfectSelfTitle",
-            "value": "Perfect Self"
+            "value": "Perfection des Selbst"
         },
         {
             "key": "PerfectSelfText",
-            "value": "Raise max HP by 1. Gain fast healing."
+            "value": "Erhöhe maximale TP um 1. Du bekommst Schnelle Heilung."
         },
         {
             "key": "FastHealingTitle",
-            "value": "Fast Healing"
+            "value": "Schnelle Heiling"
         },
         {
             "key": "FastHealingText",
-            "value": "<b>Permanent. Unplayable.</b> At end of turn heal 1 HP."
+            "value": "<b>Permanent. Unspielbar.</b> Am Ende des Zuges stelle 1 TP wieder her."
         },
         {
             "key": "GreaterFlurryTitle",
-            "value": "Greater Flurry"
+            "value": "Grosser Rundumschlag"
         },
         {
             "key": "GreaterFlurryText",
-            "value": "Draw all unarmed strikes."
+            "value": "Ziehe alle Kung-Fu Karten."
         },
         {
             "key": "FlurryOfBlowsTitle",
-            "value": "Flurry of Blows"
+            "value": "Rundumschlag"
         },
         {
             "key": "FlurryOfBlowsText",
-            "value": "Deal 1-2 damage to all creatures."
+            "value": "Füge allen Kreaturen 1-2 Schaden zu."
         },
         {
             "key": "StunningFistTitle",
-            "value": "Stunning Fist"
+            "value": "Betäubende Faust"
         },
         {
             "key": "StunningFistText",
-            "value": "Deal 2 damage and stun a creature."
+            "value": "Füge einer Kreatur 2 Schaden zu und betäube sie."
         },
         {
             "key": "PerfectStrikeTitle",
-            "value": "Perfect Strike"
+            "value": "Perfecter Schlag"
         },
         {
             "key": "PerfectStrikeText",
-            "value": "<b>Critical Strike.</b> Deal 2-4 damage to a creature."
+            "value": "<b>Kritischer Treffer.</b> Füge einer Kreatur 2-4 Schaden zu."
         },
         {
             "key": "UppercutTitle",
-            "value": "Uppercut"
+            "value": "Kinnhaken"
         },
         {
             "key": "UppercutText",
-            "value": "Deal 4 damage to a creature."
+            "value": "Füge einer Kreatur 4 Schaden zu."
         },
         {
             "key": "EnfeeblingStrikeTitle",
-            "value": "Enfeebling Strike"
+            "value": "Schwächender Schlag"
         },
         {
             "key": "EnfeeblingStrikeText",
-            "value": "Deal 2 damage and reduce the attack of a creature by 1."
+            "value": "Füge einer Kreatur 2 Schaden zu and reduzieren ihren Angriff um 1."
         },
         {
             "key": "QuiveringPalmTitle",
-            "value": "Quivering Palm"
+            "value": "Verwirrender Schlag"
         },
         {
             "key": "QuiveringPalmText",
-            "value": "Deal 1 damage and silence non-boss creature."
+            "value": "Füge einer Kreatur 2 Schaden zu und bring sie zum Schweigen."
         },
         {
             "key": "KiStrikeTitle",
-            "value": "Ki Strike"
+            "value": "Ki Schlag"
         },
         {
             "key": "KiStrikeText",
-            "value": "<b>Reserve.</b> Deal 2 damage to a creature."
+            "value": "<b>Reserviert.</b> Füge einer Kreatur 2 Schaden zu."
         },
         {
             "key": "WholenessOfBodyTitle",
-            "value": "Wholeness of Body"
+            "value": "Heilung des Körpers"
         },
         {
             "key": "WholenessOfBodyText",
-            "value": "Heal 3 HP."
+            "value": "Stelle 3 TP wieder her."
         },
         {
             "key": "InfernalContractMonkTitle",
-            "value": "Infernal Contract"
+            "value": "Höllischer Vertrag"
         },
         {
             "key": "InfernalContractMonkText",
-            "value": "<b>One Use.</b> Delve 5 skills. Decrease max HP by 2."
+            "value": "<b>Einmal Verwendbar.</b> Suche 5 Fertigkeiten aus. Reduziere deine maximalen TP um 2."
         }
     ]
 }
