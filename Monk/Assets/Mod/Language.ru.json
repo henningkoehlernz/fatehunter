@@ -2,123 +2,123 @@
     "items": [
         {
             "key": "MonkTitle",
-            "value": "Monk"
+            "value": "Монах"
         },
         {
             "key": "MonkText",
-            "value": "A lightning quick warrior that showers his opponents with unarmed strikes."
+            "value": "Молниеносный воин осыпающий врагов безоружными ударами."
         },
         {
             "key": "MonkAbilityTitle",
-            "value": "Fast Movement"
+            "value": "Быстрые движения"
         },
         {
             "key": "MonkAbilityText",
-            "value": "Draws 6 cards each round."
+            "value": "Вы берете 6 карт каждый ход."
         },
         {
             "key": "UnarmedStrikeTitle",
-            "value": "Unarmed Strike"
+            "value": "Безоружный удар"
         },
         {
             "key": "UnarmedStrikeText",
-            "value": "<b>Permanent.</b> Deal 1 damage to a creature."
+            "value": "<b>Перманентная.</b> Наносит 1 ед. урона существу."
         },
         {
             "key": "KeyUnarmedStrikeTitle",
-            "value": "Unarmed Strike"
+            "value": "Безоружный удар"
         },
         {
             "key": "KeyUnarmedStrikeText",
-            "value": "+1: 1-2 damage.\n+2: 1-3 damage.\n+3: 2-4 damage."
+            "value": "+1: 1-2 ед. урона.\n+2: 1-3 ед. урона.\n+3: 2-4 ед. урона."
         },
         {
             "key": "UnarmedStrike1UTitle",
-            "value": "Unarmed Strike +1"
+            "value": "Безоружный удар +1"
         },
         {
             "key": "UnarmedStrike1UText",
-            "value": "<b>Permanent.</b> Deal 1-2 damage to a creature."
+            "value": "<b>Перманентная.</b> Наносит 1-2 ед. урона существу."
         },
         {
             "key": "UnarmedStrike2UTitle",
-            "value": "Unarmed Strike +2"
+            "value": "Безоружный удар +2"
         },
         {
             "key": "UnarmedStrike2UText",
-            "value": "<b>Permanent.</b> Deal 1-3 damage to a creature."
+            "value": "<b>Перманентная.</b> Наносит 1-3 ед. урона существу."
         },
         {
             "key": "UnarmedStrike3UTitle",
-            "value": "Unarmed Strike +3"
+            "value": "Безоружный удар +3"
         },
         {
             "key": "UnarmedStrike3UText",
-            "value": "<b>Permanent.</b> Deal 2-4 damage to a creature."
+            "value": "<b>Перманентная.</b> Наносит 2-4 ед. урона существу."
         },
         {
             "key": "ImprovedUnarmedStrikeTitle",
-            "value": "Improved Unarmed Strike"
+            "value": "Улучшеный безоружный удар"
         },
         {
             "key": "ImprovedUnarmedStrikeText",
-            "value": "<b>One Use.</b> Draw and upgrade all unarmed strikes."
+            "value": "<b>Одно использование.</b> Возьмите и улучшите все Безоружные удары."
         },
         {
             "key": "PerfectSelfTitle",
-            "value": "Perfect Self"
+            "value": "Самосовершенствование"
         },
         {
             "key": "PerfectSelfText",
-            "value": "Raise max HP by 1. Gain fast healing."
+            "value": "Увеличивает максимальное здоровье на 1 ед. Получите Быстрое лечение."
         },
         {
             "key": "FastHealingTitle",
-            "value": "Fast Healing"
+            "value": "Быстрое лечение"
         },
         {
             "key": "FastHealingText",
-            "value": "<b>Permanent. Unplayable.</b> At end of turn heal 1 HP."
+            "value": "<b>Перманентная. Неиграбельная.</b> В конце хода восстанавливает 1 ед. здоровья"
         },
         {
             "key": "GreaterFlurryTitle",
-            "value": "Greater Flurry"
+            "value": "Великий шквал"
         },
         {
             "key": "GreaterFlurryText",
-            "value": "Draw all unarmed strikes."
+            "value": "Возьмите все Безоружные удары."
         },
         {
             "key": "FlurryOfBlowsTitle",
-            "value": "Flurry of Blows"
+            "value": "Шквал ударов"
         },
         {
             "key": "FlurryOfBlowsText",
-            "value": "Deal 1-2 damage to all creatures."
+            "value": "Наносит 1-2 ед. урона всем существам."
         },
         {
             "key": "StunningFistTitle",
-            "value": "Stunning Fist"
+            "value": "Оглушающий кулак"
         },
         {
             "key": "StunningFistText",
-            "value": "Deal 2 damage and stun a creature."
+            "value": "Наносит 2 ед. урона и оглушает существо."
         },
         {
             "key": "PerfectStrikeTitle",
-            "value": "Perfect Strike"
+            "value": "Точный удар"
         },
         {
             "key": "PerfectStrikeText",
-            "value": "<b>Critical Strike.</b> Deal 2-4 damage to a creature."
+            "value": "<b>Критический удар.</b> Наносит 2-4 ед. урона существу."
         },
         {
             "key": "UppercutTitle",
-            "value": "Uppercut"
+            "value": "Апперкот"
         },
         {
             "key": "UppercutText",
-            "value": "Deal 4 damage to a creature."
+            "value": "Наносит 4 ед. урона существу."
         },
         {
             "key": "EnfeeblingStrikeTitle",
@@ -126,39 +126,39 @@
         },
         {
             "key": "EnfeeblingStrikeText",
-            "value": "Deal 2 damage and reduce the attack of a creature by 1."
+            "value": "Наносит 2 ед. урона и уменьшает атаку существа на 1 ед."
         },
         {
             "key": "QuiveringPalmTitle",
-            "value": "Quivering Palm"
+            "value": "Дрожащая ладонь"
         },
         {
             "key": "QuiveringPalmText",
-            "value": "Deal 1 damage and silence non-boss creature."
+            "value": "Наносит 1 ед. урона и накладывает <b>немоту</b> на существо не являющееся боссом."
         },
         {
             "key": "KiStrikeTitle",
-            "value": "Ki Strike"
+            "value": "Удар Ки"
         },
         {
             "key": "KiStrikeText",
-            "value": "<b>Reserve.</b> Deal 3 damage to a creature."
+            "value": "<b>Резерв.</b> Наносит 3 ед. урона существу."
         },
         {
             "key": "WholenessOfBodyTitle",
-            "value": "Wholeness of Body"
+            "value": "Целостность тела"
         },
         {
             "key": "WholenessOfBodyText",
-            "value": "Heal 3 HP."
+            "value": "Восстанавливает 3 ед. здоровья."
         },
         {
             "key": "InfernalContractMonkTitle",
-            "value": "Infernal Contract"
+            "value": "Адский контракт"
         },
         {
             "key": "InfernalContractMonkText",
-            "value": "<b>One Use.</b> Delve 5 skills. Decrease max HP by 2."
+            "value": "<b>Одно использование.</b> Раскопайте 5 навыков. Уменьшает максимальное здоровье на 2 ед."
         }
     ]
 }
