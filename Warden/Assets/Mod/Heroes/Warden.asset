@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41f8b161af6babd48bf40cd238c74db5, type: 3}
+  m_Name: Warden
+  m_EditorClassIdentifier: 
+  path: Assets/Mod/Heroes/Warden.asset
+  modId: 
+  localizationKey: 
+  additionalKeywords: []
+  material: {fileID: 2100000, guid: b0ba6554130565c46be968de57650726, type: 2}
+  gold: 0
+  price: 0
+  type: 0
+  additionalType: 0
+  rarity: 0
+  upgrade: {fileID: 0}
+  downgrade: {fileID: 0}
+  handLock: 0
+  limited: 0
+  canBeExiled: 1
+  actions: []
+  ultimateActions: []
+  onStartTurnActions:
+  - {fileID: 11400000, guid: a7504c01f2f5348e0a08d06e9accee64, type: 2}
+  onEndTurnActions: []
+  onRoomChangedActions: []
+  onCardPlayedActions: []
+  discardActions: []
+  onTakeDamageActions: []
+  onDeathActions: []
+  auras: []
+  possibleCards: []
+  actionAfterPlaying: 0
+  vfxType: 0
+  playSfx: {fileID: 0}
+  attack: 0
+  health: 20
+  shield: 0
+  taunt: 0
+  experience: 0
+  creatureKeywords: 
+  creatureType: 0
+  onAttackActions: []
+  healthPhases: []
+  deathPhases: []
+  abilities:
+  - title: WardenAbilityTitle
+    description: WardenAbilityText
+  startTurnCards: 4
+  passiveCardSlots: 5
+  deck:
+  - {fileID: 11400000, guid: e2a34f7f0b444cb469410e34a32b3c4d, type: 2}
+  - {fileID: 11400000, guid: e2a34f7f0b444cb469410e34a32b3c4d, type: 2}
+  - {fileID: 11400000, guid: e2a34f7f0b444cb469410e34a32b3c4d, type: 2}
+  - {fileID: 11400000, guid: e2a34f7f0b444cb469410e34a32b3c4d, type: 2}
+  - {fileID: 11400000, guid: 97842f5f83fc545bbaaf90b65ba5c524, type: 2}
+  supply:
+  - {fileID: 11400000, guid: e8499cb054e9a6a45b2a916b944e97d5, type: 2}
+  - {fileID: 11400000, guid: f70cf4a966171d24e8b0415a984f5593, type: 2}
+  - {fileID: 11400000, guid: 432c827cf9dc7544b81cee2e05ca2092, type: 2}
+  - {fileID: 11400000, guid: bc0a89304cf51e74bb0c52889529b365, type: 2}
+  - {fileID: 11400000, guid: 2506d22a3b6eaa74daa3fa464df38b67, type: 2}
+  levels:
+  - {fileID: 11400000, guid: 7aa76d63a7d14c94db09d33e3d9d9ed6, type: 2}
+  - {fileID: 11400000, guid: 4ab51ddc81f26c54fa9e2231bfa40716, type: 2}
+  - {fileID: 11400000, guid: 865c0a92c0c3cef4cb8db8014cc13bbe, type: 2}
+  - {fileID: 11400000, guid: b366932cbf7ca124e8cbe5798afe51bd, type: 2}
+  - {fileID: 11400000, guid: 5bf2488adf0a07940b062bccee84f8d8, type: 2}
+  - {fileID: 11400000, guid: bd9a3930c188738468f38511a2f96cbd, type: 2}
+  - {fileID: 11400000, guid: 6e44d6326d38d794aabdb188bec84041, type: 2}
+  - {fileID: 11400000, guid: f3ab3c07cb8cda049b9d426d88a9712f, type: 2}
+  - {fileID: 11400000, guid: a66d35bd0322d29449254996e110359d, type: 2}
+  - {fileID: 11400000, guid: af3d2296b53ba1746b84eee562bc45be, type: 2}
+  - {fileID: 11400000, guid: dbc4f2ad2b2745c47b0f1a76ee3fa49c, type: 2}
+  - {fileID: 11400000, guid: ac83aa8801b475b43881506b053b7dc5, type: 2}
+  - {fileID: 11400000, guid: 8a10bebc4f2e2d24a933f75fd10bb0b1, type: 2}
+  - {fileID: 11400000, guid: 44fa5c6ceb65a154f80925957c7a03d8, type: 2}
+  - {fileID: 11400000, guid: 1e49def1c93743c4c825b8abbd8685e5, type: 2}
+  - {fileID: 11400000, guid: 868ec662b3e376d4d8d551120965fcba, type: 2}
+  - {fileID: 11400000, guid: 58fcb28a833f9f54cb06144ce3590bc0, type: 2}
+  - {fileID: 11400000, guid: 82e3ba0e367ada44c83363807676f9fc, type: 2}
+  - {fileID: 11400000, guid: 1ab5e70781be3494d9e613176a04cfc2, type: 2}
+  skills: {fileID: 11400000, guid: ed554dd11471044d891c96a49f6ca2f2, type: 2}
+  ultimateSkills: {fileID: 11400000, guid: 862f3fb8c1d51461c9d4529659fa5333, type: 2}
+  collection: {fileID: 11400000, guid: fd54eee47d46d45d098d3f658a6b2fc9, type: 2}

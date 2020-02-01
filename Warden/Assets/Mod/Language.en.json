@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "key": "WardenTitle",
+            "value": "Warden"
+        },
+        {
+            "key": "WardenText",
+            "value": "A heavily armored guardian capable of surviving even the most grievous injuries."
+        },
+        {
+            "key": "WardenAbilityTitle",
+            "value": "Juggernaut"
+        },
+        {
+            "key": "WardenAbilityText",
+            "value": "Draws 4 cards and heals 2 HP each turn."
+        },
+        {
+            "key": "SmashTitle",
+            "value": "Smash"
+        },
+        {
+            "key": "SmashText",
+            "value": "Deal 3 damage. If your deck has 25+ cards, deal 5 damage instead."
+        }
+    ]
+}
