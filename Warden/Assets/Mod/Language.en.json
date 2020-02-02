@@ -78,7 +78,7 @@
         },
         {
             "key": "SmashText",
-            "value": "Deal 1 damage for every 10 cards in your deck (minimum 2)."
+            "value": "Deal 1 damage per 10 cards in your deck (minimum 2)."
         }
     ]
 }

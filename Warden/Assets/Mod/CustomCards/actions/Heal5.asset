@@ -14,7 +14,11 @@ MonoBehaviour:
   probability: 1
   targets:
     targetSelection: 0
-    possibleTargets: []
+    possibleTargets:
+    - owner: 0
+      targetType: 0
+      creatureType: 0
+      nonCreatureType: 0
   targetAttackRange:
     min: 0
     max: 2147483647
