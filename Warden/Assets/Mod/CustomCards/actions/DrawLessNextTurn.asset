@@ -8,8 +8,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9ccf07e26b85b284883d3d3a2e30ba7b, type: 3}
-  m_Name: DmgSelf2
+  m_Script: {fileID: 11500000, guid: 7a57e0128867e43ce8a723f258ec3426, type: 3}
+  m_Name: DrawLessNextTurn
   m_EditorClassIdentifier: 
   probability: 1
   targets:
@@ -31,9 +31,4 @@ MonoBehaviour:
   actionConditions: []
   playerPhrase: 
   hidden: 0
-  mode: 0
-  value:
-    min: 2
-    max: 2
-  valueSelectors: []
-  criticalStrike: 0
+  modifier: -1

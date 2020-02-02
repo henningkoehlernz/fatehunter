@@ -14,4 +14,4 @@ MonoBehaviour:
   cardsCountRange:
     min: 30
     max: 2147483647
-  place: 1
+  place: 3

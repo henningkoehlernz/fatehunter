@@ -49,12 +49,28 @@
             "value": "Deal 1 damage to all opponents. If your deck has 50+ cards, deal 2 damage."
         },
         {
+            "key": "GritTitle",
+            "value": "Grit"
+        },
+        {
+            "key": "GritText",
+            "value": "<b>Permanent. Unplayable. Reserve.</b> When fighting 2+ opponents, heal 1 HP at end of turn."
+        },
+        {
+            "key": "HunkerDownTitle",
+            "value": "Hunker Down"
+        },
+        {
+            "key": "HunkerDownText",
+            "value": "<b>Reserve.</b> Heal 5 HP. Gain a shield. Draw one less card next turn."
+        },
+        {
             "key": "OverwhelmTitle",
             "value": "Overwhelm"
         },
         {
             "key": "OverwhelmText",
-            "value": "Lose 2 HP. Draw 2 Cards."
+            "value": "Lose 1 HP. Draw 1 card. Draw 1 more card next turn."
         },
         {
             "key": "SmashTitle",

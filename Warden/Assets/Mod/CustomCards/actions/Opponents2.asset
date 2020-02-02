@@ -8,10 +8,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e4dd577984100148a28c855bd8f6f76, type: 3}
-  m_Name: Cards50Plus
+  m_Script: {fileID: 11500000, guid: efc29c0d5db00412e9a2b2b7571d8cdd, type: 3}
+  m_Name: Opponents2
   m_EditorClassIdentifier: 
-  cardsCountRange:
-    min: 50
+  fieldSize:
+    min: 2
     max: 2147483647
-  place: 3
