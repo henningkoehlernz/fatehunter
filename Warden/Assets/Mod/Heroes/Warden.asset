@@ -42,7 +42,7 @@ MonoBehaviour:
   vfxType: 0
   playSfx: {fileID: 0}
   attack: 0
-  health: 20
+  health: 18
   shield: 0
   taunt: 0
   experience: 0
@@ -61,12 +61,12 @@ MonoBehaviour:
   - {fileID: 11400000, guid: e2a34f7f0b444cb469410e34a32b3c4d, type: 2}
   - {fileID: 11400000, guid: e2a34f7f0b444cb469410e34a32b3c4d, type: 2}
   - {fileID: 11400000, guid: e2a34f7f0b444cb469410e34a32b3c4d, type: 2}
-  - {fileID: 11400000, guid: 97842f5f83fc545bbaaf90b65ba5c524, type: 2}
+  - {fileID: 11400000, guid: 705d6451a38d8499181884118c6b1bad, type: 2}
   supply:
   - {fileID: 11400000, guid: e8499cb054e9a6a45b2a916b944e97d5, type: 2}
   - {fileID: 11400000, guid: f70cf4a966171d24e8b0415a984f5593, type: 2}
-  - {fileID: 11400000, guid: 432c827cf9dc7544b81cee2e05ca2092, type: 2}
   - {fileID: 11400000, guid: bc0a89304cf51e74bb0c52889529b365, type: 2}
+  - {fileID: 11400000, guid: 432c827cf9dc7544b81cee2e05ca2092, type: 2}
   - {fileID: 11400000, guid: 2506d22a3b6eaa74daa3fa464df38b67, type: 2}
   levels:
   - {fileID: 11400000, guid: 7aa76d63a7d14c94db09d33e3d9d9ed6, type: 2}
@@ -88,6 +88,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 58fcb28a833f9f54cb06144ce3590bc0, type: 2}
   - {fileID: 11400000, guid: 82e3ba0e367ada44c83363807676f9fc, type: 2}
   - {fileID: 11400000, guid: 1ab5e70781be3494d9e613176a04cfc2, type: 2}
-  skills: {fileID: 11400000, guid: ed554dd11471044d891c96a49f6ca2f2, type: 2}
+  skills: {fileID: 11400000, guid: a97efa6418809412a8c3d46a0b9ed574, type: 2}
   ultimateSkills: {fileID: 11400000, guid: 862f3fb8c1d51461c9d4529659fa5333, type: 2}
   collection: {fileID: 11400000, guid: fd54eee47d46d45d098d3f658a6b2fc9, type: 2}

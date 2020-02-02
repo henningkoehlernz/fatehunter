@@ -17,12 +17,52 @@
             "value": "Draws 4 cards and heals 2 HP each turn."
         },
         {
+            "key": "InfernalContractWardenTitle",
+            "value": "Infernal Contract"
+        },
+        {
+            "key": "InfernalContractWardenText",
+            "value": "<b>One Use.</b> Exile all skills, then delve 5. Lower max HP by 4."
+        },
+        {
+            "key": "AssaultTitle",
+            "value": "Assault"
+        },
+        {
+            "key": "AssaultText",
+            "value": "Deal 2 damage. Draw 1 more card next turn."
+        },
+        {
+            "key": "BrutalTrainingTitle",
+            "value": "Brutal Training"
+        },
+        {
+            "key": "BrutalTrainingText",
+            "value": "<b>One Use.</b> Lose 5 HP. Raise max HP by 1."
+        },
+        {
+            "key": "ButcheryTitle",
+            "value": "Butchery"
+        },
+        {
+            "key": "ButcheryText",
+            "value": "Deal 1 damage to all opponents. If your deck has 50+ cards, deal 2 damage."
+        },
+        {
+            "key": "OverwhelmTitle",
+            "value": "Overwhelm"
+        },
+        {
+            "key": "OverwhelmText",
+            "value": "Lose 2 HP. Draw 2 Cards."
+        },
+        {
             "key": "SmashTitle",
             "value": "Smash"
         },
         {
             "key": "SmashText",
-            "value": "Deal 3 damage. If your deck has 25+ cards, deal 5 damage instead."
+            "value": "Deal 1 damage for every 10 cards in your deck (minimum 2)."
         }
     ]
 }

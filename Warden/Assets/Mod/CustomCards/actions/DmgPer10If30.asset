@@ -9,7 +9,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9ccf07e26b85b284883d3d3a2e30ba7b, type: 3}
-  m_Name: Damage3
+  m_Name: DmgPer10If30
   m_EditorClassIdentifier: 
   probability: 1
   targets:
@@ -28,12 +28,14 @@ MonoBehaviour:
   playerHealthRange:
     min: 0
     max: 2147483647
-  actionConditions: []
+  actionConditions:
+  - {fileID: 11400000, guid: 0f5ffef26b61d4afdb98a9a4ca54568a, type: 2}
   playerPhrase: 
   hidden: 0
-  mode: 0
+  mode: 1
   value:
-    min: 3
-    max: 3
-  valueSelectors: []
+    min: 0
+    max: 0
+  valueSelectors:
+  - {fileID: 11400000, guid: 05ac101e401cd44b58003d4709541c74, type: 2}
   criticalStrike: 0

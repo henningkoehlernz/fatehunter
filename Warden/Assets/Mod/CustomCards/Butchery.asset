@@ -9,13 +9,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 88fef69b49fcba240b36f7a3a717cc53, type: 3}
-  m_Name: Smash
+  m_Name: Butchery
   m_EditorClassIdentifier: 
-  path: Assets/Mod/CustomCards/Smash.asset
+  path: Assets/Mod/CustomCards/Butchery.asset
   modId: 
   localizationKey: 
   additionalKeywords: []
-  material: {fileID: 2100000, guid: 876d05f67f2c702479157dbe07d90315, type: 2}
+  material: {fileID: 2100000, guid: fac8f2c7767cc4c4ba7ff04aefdf9095, type: 2}
   gold: 0
   price: 0
   type: 2
@@ -27,9 +27,9 @@ MonoBehaviour:
   limited: 0
   canBeExiled: 1
   actions:
-  - {fileID: 11400000, guid: fd366e1123d58407997c543c344eeed5, type: 2}
+  - {fileID: 11400000, guid: 28565f93998024387abcd3e2cc06d6f4, type: 2}
   ultimateActions:
-  - {fileID: 11400000, guid: eba526ba77771489181412518265bccb, type: 2}
+  - {fileID: 11400000, guid: c73aadae416fc42c8b5c7b0a08a735f8, type: 2}
   onStartTurnActions: []
   onEndTurnActions: []
   onRoomChangedActions: []

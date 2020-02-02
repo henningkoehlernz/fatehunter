@@ -14,8 +14,11 @@ MonoBehaviour:
   path: Assets/Mod/Heroes/WardenCollection.asset
   modId: 
   cards:
-  - {fileID: 11400000, guid: 432c827cf9dc7544b81cee2e05ca2092, type: 2}
+  - {fileID: 11400000, guid: e8499cb054e9a6a45b2a916b944e97d5, type: 2}
+  - {fileID: 11400000, guid: f70cf4a966171d24e8b0415a984f5593, type: 2}
+  - {fileID: 11400000, guid: bc0a89304cf51e74bb0c52889529b365, type: 2}
   - {fileID: 11400000, guid: fe12b3f849d9b6a44b8fdae05ec9342b, type: 2}
-  - {fileID: 11400000, guid: 5024abcc0d09be843a91b6626c969d5b, type: 2}
-  - {fileID: 11400000, guid: a3aeb79adab7f844c995fb62b92d22cb, type: 2}
-  - {fileID: 11400000, guid: df58ee8a67013a44fb1d7d5f745c7250, type: 2}
+  - {fileID: 11400000, guid: 1f04e56ba279fc749af3ed924ac58e5e, type: 2}
+  - {fileID: 11400000, guid: 432c827cf9dc7544b81cee2e05ca2092, type: 2}
+  - {fileID: 11400000, guid: 2506d22a3b6eaa74daa3fa464df38b67, type: 2}
+  - {fileID: 11400000, guid: 1c884ef9a5c344fe7a5a1283e91bb52d, type: 2}
