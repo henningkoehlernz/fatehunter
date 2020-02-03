@@ -38,7 +38,7 @@
         },
         {
             "key": "BonusFeatsText",
-            "value": "<b>One Use.</b> Gain a copy of each standard skill."
+            "value": "<b>One Use.</b> Gain a copy of each non-heroic skill."
         },
         {
             "key": "TrainingTitle",

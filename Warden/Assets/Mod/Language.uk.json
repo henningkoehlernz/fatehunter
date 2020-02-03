@@ -1,12 +1,92 @@
 {
     "items": [
         {
-            "key": "ExampleCardTitle",
-            "value": "Example"
+            "key": "WardenTitle",
+            "value": "Warden"
         },
         {
-            "key": "ExampleCardText",
-            "value": "<b>Bold text.</b> Normal text"
+            "key": "WardenText",
+            "value": "A heavily armored guardian capable of surviving even the most grievous injuries."
+        },
+        {
+            "key": "WardenAbilityTitle",
+            "value": "Juggernaut"
+        },
+        {
+            "key": "WardenAbilityText",
+            "value": "Draws 4 cards and heals 2 HP each turn."
+        },
+        {
+            "key": "InfernalContractWardenTitle",
+            "value": "Infernal Contract"
+        },
+        {
+            "key": "InfernalContractWardenText",
+            "value": "<b>One Use.</b> Exile all skills, then delve 5. Lower max HP by 4."
+        },
+        {
+            "key": "AssaultTitle",
+            "value": "Assault"
+        },
+        {
+            "key": "AssaultText",
+            "value": "<b>Critical Strike.</b> Deal 2 damage. Draw 1 more card next turn."
+        },
+        {
+            "key": "BonusFeatsTitle",
+            "value": "Bonus Feats"
+        },
+        {
+            "key": "BonusFeatsText",
+            "value": "<b>One Use.</b> Gain a copy of each non-heroic skill."
+        },
+        {
+            "key": "TrainingTitle",
+            "value": "Training"
+        },
+        {
+            "key": "TrainingText",
+            "value": "<b>One Use.</b> Lose 5 HP. Raise max HP by 1."
+        },
+        {
+            "key": "ButcheryTitle",
+            "value": "Butchery"
+        },
+        {
+            "key": "ButcheryText",
+            "value": "Deal 1 damage to all enemies. If your deck has 30+ cards, deal 3 damage."
+        },
+        {
+            "key": "GritTitle",
+            "value": "Grit"
+        },
+        {
+            "key": "GritText",
+            "value": "<b>Permanent. Unplayable. Reserve.</b> When facing 2+ enemies at end of turn, heal 1 HP."
+        },
+        {
+            "key": "DefensiveStanceTitle",
+            "value": "Defensive Stance"
+        },
+        {
+            "key": "DefensiveStanceText",
+            "value": "Reduce the attack of all creatures by 1. Gain a shield. Draw one less card next turn."
+        },
+        {
+            "key": "OverwhelmTitle",
+            "value": "Overwhelm"
+        },
+        {
+            "key": "OverwhelmText",
+            "value": "For every copy in your deck, draw a card and lose 1 HP."
+        },
+        {
+            "key": "SmashTitle",
+            "value": "Smash"
+        },
+        {
+            "key": "SmashText",
+            "value": "Deal 3 damage. Deal 1 damage per 10 cards in your deck to a random target."
         }
     ]
 }
