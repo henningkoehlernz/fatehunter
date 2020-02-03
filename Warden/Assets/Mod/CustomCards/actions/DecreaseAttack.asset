@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2a911fcec892e04d9742362ca300cde, type: 3}
+  m_Name: DecreaseAttack
+  m_EditorClassIdentifier: 
+  probability: 1
+  targets:
+    targetSelection: 1
+    possibleTargets:
+    - owner: 1
+      targetType: 1
+      creatureType: 0
+      nonCreatureType: 0
+  targetAttackRange:
+    min: 0
+    max: 2147483647
+  targetHealthRange:
+    min: 0
+    max: 2147483647
+  playerHealthRange:
+    min: 0
+    max: 2147483647
+  actionConditions: []
+  playerPhrase: 
+  hidden: 0
+  actionType: 2
+  value: 1

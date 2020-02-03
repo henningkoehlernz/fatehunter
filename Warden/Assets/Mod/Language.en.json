@@ -62,7 +62,7 @@
         },
         {
             "key": "DefensiveStanceText",
-            "value": "<b>Enchanted.</b> Heal 3 HP. Gain a shield."
+            "value": "Reduce the attack of all creatures by 1. Gain a shield. Draw one less card next turn."
         },
         {
             "key": "OverwhelmTitle",
