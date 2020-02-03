@@ -54,7 +54,7 @@
         },
         {
             "key": "ButcheryText",
-            "value": "Deal 1 damage to all opponents. If your deck has 30+ cards, deal 3 damage."
+            "value": "Deal 1 damage to all enemies. If your deck has 30+ cards, deal 3 damage."
         },
         {
             "key": "GritTitle",
@@ -62,7 +62,7 @@
         },
         {
             "key": "GritText",
-            "value": "<b>Permanent. Unplayable. Reserve.</b> When facing 2+ opponents at end of turn, heal 1 HP."
+            "value": "<b>Permanent. Unplayable. Reserve.</b> When facing 2+ enemies at end of turn, heal 1 HP."
         },
         {
             "key": "DefensiveStanceTitle",
@@ -78,7 +78,7 @@
         },
         {
             "key": "OverwhelmText",
-            "value": "Draw a card and lose 1 HP for every copy in your deck."
+            "value": "For every copy in your deck, draw a card and lose 1 HP."
         },
         {
             "key": "SmashTitle",
