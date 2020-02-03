@@ -46,7 +46,7 @@
         },
         {
             "key": "ButcheryText",
-            "value": "Deal 1 damage to all opponents. If your deck has 30+ cards, deal 2 damage."
+            "value": "Deal 1 damage to all opponents. If your deck has 30+ cards, deal 3 damage."
         },
         {
             "key": "GritTitle",
@@ -54,7 +54,7 @@
         },
         {
             "key": "GritText",
-            "value": "<b>Permanent. Unplayable. Reserve.</b> When fighting 2+ opponents at end of turn, heal 1 HP."
+            "value": "<b>Permanent. Unplayable. Reserve.</b> When facing 2+ opponents at end of turn, heal 1 HP."
         },
         {
             "key": "DefensiveStanceTitle",

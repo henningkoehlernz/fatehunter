@@ -9,7 +9,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9ccf07e26b85b284883d3d3a2e30ba7b, type: 3}
-  m_Name: DmgAll2If30
+  m_Name: DmgAll3If30
   m_EditorClassIdentifier: 
   probability: 1
   targets:
@@ -34,7 +34,7 @@ MonoBehaviour:
   hidden: 0
   mode: 0
   value:
-    min: 2
-    max: 2
+    min: 3
+    max: 3
   valueSelectors: []
   criticalStrike: 0
