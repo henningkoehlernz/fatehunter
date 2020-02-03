@@ -9,26 +9,29 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 88fef69b49fcba240b36f7a3a717cc53, type: 3}
-  m_Name: Overwhelm
+  m_Name: BonusFeats
   m_EditorClassIdentifier: 
-  path: Assets/Mod/CustomCards/Overwhelm.asset
+  path: Assets/Mod/CustomCards/BonusFeats.asset
   modId: 
   localizationKey: 
   additionalKeywords: []
-  material: {fileID: 2100000, guid: d56a5a6f3f8017544a268d8f0be35a31, type: 2}
+  material: {fileID: 2100000, guid: 8b8708e415bb9459792af87396fd95b4, type: 2}
   gold: 0
   price: 0
   type: 2
-  additionalType: 0
-  rarity: 0
+  additionalType: 9
+  rarity: 2
   upgrade: {fileID: 0}
   downgrade: {fileID: 0}
   handLock: 0
   limited: 0
   canBeExiled: 1
   actions:
-  - {fileID: 11400000, guid: a87d6e10841b94a80bca6bd032ca1cab, type: 2}
-  - {fileID: 11400000, guid: ec5d33f0b1de7406999e840be42d1a64, type: 2}
+  - {fileID: 11400000, guid: c6d21d9618f424e45804cd6faf7a3e78, type: 2}
+  - {fileID: 11400000, guid: 43a0d0b084eb140c1822f6043eb92580, type: 2}
+  - {fileID: 11400000, guid: 44bdc538782ee4e67b600c63ecef6f2a, type: 2}
+  - {fileID: 11400000, guid: 71f7eba866bb3479db0a5c1891c47f17, type: 2}
+  - {fileID: 11400000, guid: b515b4371b3e948f886a1cc8a14fe7ae, type: 2}
   ultimateActions: []
   onStartTurnActions: []
   onEndTurnActions: []
@@ -39,6 +42,6 @@ MonoBehaviour:
   onDeathActions: []
   auras: []
   possibleCards: []
-  actionAfterPlaying: 0
-  vfxType: 0
+  actionAfterPlaying: 1
+  vfxType: 2
   playSfx: {fileID: 0}

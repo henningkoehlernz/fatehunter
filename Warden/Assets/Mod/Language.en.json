@@ -33,11 +33,19 @@
             "value": "<b>Critical Strike.</b> Deal 2 damage. Draw 1 more card next turn."
         },
         {
-            "key": "BrutalTrainingTitle",
-            "value": "Brutal Training"
+            "key": "BonusFeatsTitle",
+            "value": "Bonus Feats"
         },
         {
-            "key": "BrutalTrainingText",
+            "key": "BonusFeatsText",
+            "value": "<b>One Use.</b> Gain a copy of each standard skill."
+        },
+        {
+            "key": "TrainingTitle",
+            "value": "Training"
+        },
+        {
+            "key": "TrainingText",
             "value": "<b>One Use.</b> Lose 5 HP. Raise max HP by 1."
         },
         {
