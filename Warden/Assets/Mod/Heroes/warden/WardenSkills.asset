@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e76319bd6b24b6e4ca8adc410faf2f17, type: 3}
   m_Name: WardenSkills
   m_EditorClassIdentifier: 
-  path: Assets/Mod/Heroes/WardenSkills.asset
+  path: Assets/Mod/Heroes/warden/WardenSkills.asset
   modId: 
   cards:
   - {fileID: 11400000, guid: 97842f5f83fc545bbaaf90b65ba5c524, type: 2}

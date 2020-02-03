@@ -15,7 +15,7 @@ MonoBehaviour:
   modId: 
   localizationKey: 
   additionalKeywords: []
-  material: {fileID: 2100000, guid: b0ba6554130565c46be968de57650726, type: 2}
+  material: {fileID: 2100000, guid: 6c030ebaeb07549e7b3c91f9e9a9e954, type: 2}
   gold: 0
   price: 0
   type: 0
