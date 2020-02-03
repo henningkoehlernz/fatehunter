@@ -9,11 +9,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9ccf07e26b85b284883d3d3a2e30ba7b, type: 3}
-  m_Name: DmgAll2If50
+  m_Name: Damage2Crit
   m_EditorClassIdentifier: 
   probability: 1
   targets:
-    targetSelection: 1
+    targetSelection: 0
     possibleTargets:
     - owner: 1
       targetType: 1
@@ -28,8 +28,7 @@ MonoBehaviour:
   playerHealthRange:
     min: 0
     max: 2147483647
-  actionConditions:
-  - {fileID: 11400000, guid: 165a62dc7078f4f04941c8238c17ff70, type: 2}
+  actionConditions: []
   playerPhrase: 
   hidden: 0
   mode: 0
@@ -37,4 +36,4 @@ MonoBehaviour:
     min: 2
     max: 2
   valueSelectors: []
-  criticalStrike: 0
+  criticalStrike: 1

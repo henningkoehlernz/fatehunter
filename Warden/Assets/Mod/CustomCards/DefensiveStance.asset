@@ -9,9 +9,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 88fef69b49fcba240b36f7a3a717cc53, type: 3}
-  m_Name: HunkerDown
+  m_Name: DefensiveStance
   m_EditorClassIdentifier: 
-  path: Assets/Mod/CustomCards/HunkerDown.asset
+  path: Assets/Mod/CustomCards/DefensiveStance.asset
   modId: 
   localizationKey: 
   additionalKeywords: []
@@ -23,19 +23,22 @@ MonoBehaviour:
   rarity: 2
   upgrade: {fileID: 0}
   downgrade: {fileID: 0}
-  handLock: 1
+  handLock: 0
   limited: 0
   canBeExiled: 1
   actions:
   - {fileID: 11400000, guid: 5534954b3476045fbbe66d733e6e6295, type: 2}
   - {fileID: 11400000, guid: a3db9f820a4504349837cc4211fda64e, type: 2}
-  - {fileID: 11400000, guid: 0169160168c9941469c7ede2561199cc, type: 2}
   ultimateActions: []
   onStartTurnActions: []
-  onEndTurnActions: []
+  onEndTurnActions:
+  - {fileID: 11400000, guid: 5534954b3476045fbbe66d733e6e6295, type: 2}
+  - {fileID: 11400000, guid: a3db9f820a4504349837cc4211fda64e, type: 2}
   onRoomChangedActions: []
   onCardPlayedActions: []
-  discardActions: []
+  discardActions:
+  - {fileID: 11400000, guid: 5534954b3476045fbbe66d733e6e6295, type: 2}
+  - {fileID: 11400000, guid: a3db9f820a4504349837cc4211fda64e, type: 2}
   onTakeDamageActions: []
   onDeathActions: []
   auras: []

@@ -30,7 +30,7 @@
         },
         {
             "key": "AssaultText",
-            "value": "Deal 2 damage. Draw 1 more card next turn."
+            "value": "<b>Critical Strike.</b> Deal 2 damage. Draw 1 more card next turn."
         },
         {
             "key": "BrutalTrainingTitle",
@@ -46,7 +46,7 @@
         },
         {
             "key": "ButcheryText",
-            "value": "Deal 1 damage to all opponents. If your deck has 50+ cards, deal 2 damage."
+            "value": "Deal 1 damage to all opponents. If your deck has 30+ cards, deal 2 damage."
         },
         {
             "key": "GritTitle",
@@ -54,15 +54,15 @@
         },
         {
             "key": "GritText",
-            "value": "<b>Permanent. Unplayable. Reserve.</b> When fighting 2+ opponents, heal 1 HP at end of turn."
+            "value": "<b>Permanent. Unplayable. Reserve.</b> When fighting 2+ opponents at end of turn, heal 1 HP."
         },
         {
-            "key": "HunkerDownTitle",
-            "value": "Hunker Down"
+            "key": "DefensiveStanceTitle",
+            "value": "Defensive Stance"
         },
         {
-            "key": "HunkerDownText",
-            "value": "<b>Reserve.</b> Heal 5 HP. Gain a shield. Draw one less card next turn."
+            "key": "DefensiveStanceText",
+            "value": "<b>Enchanted.</b> Heal 3 HP. Gain a shield."
         },
         {
             "key": "OverwhelmTitle",
@@ -70,7 +70,7 @@
         },
         {
             "key": "OverwhelmText",
-            "value": "Lose 1 HP. Draw 1 card. Draw 1 more card next turn."
+            "value": "Draw a card and lose 1 HP for every copy in your deck."
         },
         {
             "key": "SmashTitle",
@@ -78,7 +78,7 @@
         },
         {
             "key": "SmashText",
-            "value": "Deal 1 damage per 10 cards in your deck (minimum 2)."
+            "value": "<b>Critical Strike.</b> Deal 1 damage for every 10 cards in your deck (minimum 2)."
         }
     ]
 }
