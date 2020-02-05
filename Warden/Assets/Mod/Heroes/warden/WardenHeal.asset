@@ -34,5 +34,5 @@ MonoBehaviour:
   mode: 0
   valueSelectors: []
   value:
-    min: 2
-    max: 2
+    min: 1
+    max: 1
