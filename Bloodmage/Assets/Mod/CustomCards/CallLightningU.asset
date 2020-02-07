@@ -9,38 +9,38 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 88fef69b49fcba240b36f7a3a717cc53, type: 3}
-  m_Name: FireStorm
+  m_Name: CallLightningU
   m_EditorClassIdentifier: 
-  path: Assets/Mod/CustomCards/FireStorm.asset
+  path: Assets/Mod/CustomCards/CallLightningU.asset
   modId: 
   localizationKey: 
   additionalKeywords:
-  - {fileID: 11400000, guid: 7860a052016e4483e8a19dfc630dc3cb, type: 2}
-  material: {fileID: 2100000, guid: ee695fccf0ab5405f81bfbf817cd0494, type: 2}
+  - {fileID: 11400000, guid: aaf7a2ed1711e4780956bc341775e4ef, type: 2}
+  material: {fileID: 2100000, guid: cb4f37ffd7aaf453382a98ba98c241dd, type: 2}
   gold: 0
   price: 0
   type: 2
   additionalType: 0
   rarity: 0
-  upgrade: {fileID: 11400000, guid: a40fc957d607948ae9cc38a17a134de8, type: 2}
+  upgrade: {fileID: 0}
   downgrade: {fileID: 0}
   handLock: 0
   limited: 0
   canBeExiled: 1
   actions:
-  - {fileID: 11400000, guid: a1d44b48bec924057bafdd2f1c526148, type: 2}
-  - {fileID: 11400000, guid: ec68f6240c37a4b53910222eb4d6c150, type: 2}
+  - {fileID: 11400000, guid: b14fcd408b36b42eb918829c82e8416e, type: 2}
   ultimateActions: []
   onStartTurnActions: []
   onEndTurnActions: []
   onRoomChangedActions: []
   onCardPlayedActions: []
   discardActions: []
-  exileActions: []
+  exileActions:
+  - {fileID: 11400000, guid: e7038e066fc9e404ab7b040b3db9237e, type: 2}
   onTakeDamageActions: []
   onDeathActions: []
   auras: []
   possibleCards: []
-  actionAfterPlaying: 0
+  actionAfterPlaying: 4
   vfxType: 2
   playSfx: {fileID: 0}
