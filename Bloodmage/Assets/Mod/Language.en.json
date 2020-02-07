@@ -1,0 +1,111 @@
+{
+    "items": [
+        {
+            "key": "BloodMageTitle",
+            "value": "Bloodmage"
+        },
+        {
+            "key": "BloodMageText",
+            "value": "An arcane caster fueling spells with their own blood. This grants powerful effects, but weakens the bloodmage."
+        },
+        {
+            "key": "BloodMageAbilityTitle",
+            "value": "Blood Magic"
+        },
+        {
+            "key": "BloodMageAbilityText",
+            "value": "A blood mage can infuse skills with life essence."
+        },
+        {
+            "key": "BloodMagicTitle",
+            "value": "Blood Magic"
+        },
+        {
+            "key": "BloodMagicText",
+            "value": "<b>Permanent.</b> Choose one: Infuse a skill in your hand; Deal 5 damage to a random enemy and 1 damage to yourself."
+        },
+        {
+            "key": "InfuseTitle",
+            "value": "Infuse"
+        },
+        {
+            "key": "InfuseText",
+            "value": "Upgrade a skill in your hand. Lower max HP by 1."
+        },
+        {
+            "key": "WildMagicTitle",
+            "value": "Blast"
+        },
+        {
+            "key": "WildMagicText",
+            "value": "Deal 1 damage to yourself and 5 damage to a random enemy."
+        },
+        {
+            "key": "KeyInfusableTitle",
+            "value": "Infusable"
+        },
+        {
+            "key": "KeyInfusableText",
+            "value": "Can be infused with blood magic."
+        },
+        {
+            "key": "KeyInfusedTitle",
+            "value": "Infused"
+        },
+        {
+            "key": "KeyInfusedText",
+            "value": "If card is exiled, raise max HP by 1."
+        },
+
+        {
+            "key": "AcidSplashTitle",
+            "value": "Acid Splash"
+        },
+        {
+            "key": "AcidSplashText",
+            "value": "Deal 1 damage."
+        },
+        {
+            "key": "AcidSplashUTitle",
+            "value": "Acid Splash"
+        },
+        {
+            "key": "AcidSplashUText",
+            "value": "<b>Infused.</b> Deal 2 damage."
+        },
+
+        {
+            "key": "DrainLifeTitle",
+            "value": "Drain Life"
+        },
+        {
+            "key": "DrainLifeText",
+            "value": "Deal 2 damage. Heal 1 HP."
+        },
+        {
+            "key": "DrainLifeUTitle",
+            "value": "Drain Life"
+        },
+        {
+            "key": "DrainLifeUText",
+            "value": "<b>Infused.</b> Deal 4 damage. Heal 2 HP."
+        },
+
+        {
+            "key": "FireStormTitle",
+            "value": "Fire Storm"
+        },
+        {
+            "key": "FireStormText",
+            "value": "Deal 3-4 damage."
+        },
+        {
+            "key": "FireStormUTitle",
+            "value": "Fire Storm"
+        },
+        {
+            "key": "FireStormUText",
+            "value": "<b>Infused.</b> Deal 6-8 damage."
+        }
+    ]
+}

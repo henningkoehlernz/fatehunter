@@ -1,0 +1,12 @@
+{
+    "items": [
+        {
+            "key": "ExampleCardTitle",
+            "value": "Example"
+        },
+        {
+            "key": "ExampleCardText",
+            "value": "<b>Bold text.</b> Normal text"
+        }
+    ]
+}
