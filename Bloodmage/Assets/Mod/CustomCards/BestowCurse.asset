@@ -9,26 +9,29 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 88fef69b49fcba240b36f7a3a717cc53, type: 3}
-  m_Name: BloodMagic
+  m_Name: BestowCurse
   m_EditorClassIdentifier: 
-  path: Assets/Mod/CustomCards/BloodMagic.asset
+  path: Assets/Mod/CustomCards/BestowCurse.asset
   modId: 
   localizationKey: 
-  additionalKeywords: []
-  material: {fileID: 2100000, guid: a4aa998a7c07d440c9110ce8d60d4c5e, type: 2}
+  additionalKeywords:
+  - {fileID: 11400000, guid: 7860a052016e4483e8a19dfc630dc3cb, type: 2}
+  material: {fileID: 2100000, guid: 0232f62385c935a4d90a8de074cf5e9d, type: 2}
   gold: 0
   price: 0
   type: 2
   additionalType: 0
   rarity: 0
-  upgrade: {fileID: 0}
+  upgrade: {fileID: 11400000, guid: acf6d345b163846fa90626f896b48320, type: 2}
   downgrade: {fileID: 0}
   handLock: 0
   limited: 0
-  canBeExiled: 0
+  canBeExiled: 1
   actions:
-  - {fileID: 11400000, guid: ab6e4b7b9430d4b49b1158bec9b7a2e1, type: 2}
-  ultimateActions: []
+  - {fileID: 11400000, guid: 5355ffe4046e5462b8ad4174055dee02, type: 2}
+  ultimateActions:
+  - {fileID: 11400000, guid: 5355ffe4046e5462b8ad4174055dee02, type: 2}
+  - {fileID: 11400000, guid: 75cd17c3ca05e4dfeb5daf1921ac00a4, type: 2}
   onStartTurnActions: []
   onEndTurnActions: []
   onRoomChangedActions: []
@@ -40,5 +43,5 @@ MonoBehaviour:
   auras: []
   possibleCards: []
   actionAfterPlaying: 0
-  vfxType: 2
+  vfxType: 6
   playSfx: {fileID: 0}

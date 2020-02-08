@@ -14,8 +14,7 @@ MonoBehaviour:
   path: Assets/Mod/Heroes/Warden.asset
   modId: 
   localizationKey: 
-  additionalKeywords:
-  - {fileID: 11400000, guid: aff0754624f4d4cae9b500ee93fba4a1, type: 2}
+  additionalKeywords: []
   material: {fileID: 2100000, guid: 6c030ebaeb07549e7b3c91f9e9a9e954, type: 2}
   gold: 0
   price: 0

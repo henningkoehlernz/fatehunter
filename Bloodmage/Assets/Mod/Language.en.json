@@ -75,6 +75,23 @@
         },
 
         {
+            "key": "BestowCurseTitle",
+            "value": "Bestow Curse"
+        },
+        {
+            "key": "BestowCurseText",
+            "value": "Reduce the attack of a creature by 1. If its attack was 0, silence it."
+        },
+        {
+            "key": "BestowCurseUTitle",
+            "value": "Bestow Curse"
+        },
+        {
+            "key": "BestowCurseUText",
+            "value": "<b>Infused.</b> Reduce the attack of a creature by 2. If its attack was 0 or 1, silence it."
+        },
+
+        {
             "key": "CallLightningTitle",
             "value": "Call Lightning"
         },
