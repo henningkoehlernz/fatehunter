@@ -80,7 +80,7 @@
         },
         {
             "key": "CallLightningText",
-            "value": "Deal 1-5 damage. Shuffle this card into the draw pile."
+            "value": "<b>Critical Strike.</b> Deal 1-3 damage. Shuffle this card into the draw pile."
         },
         {
             "key": "CallLightningUTitle",
@@ -88,7 +88,24 @@
         },
         {
             "key": "CallLightningUText",
-            "value": "<b>Infused. Critical Strike.</b> Deal 1-8 damage. Shuffle this card into the draw pile."
+            "value": "<b>Infused. Critical Strike.</b> Deal 2-6 damage. Shuffle this card into the draw pile."
+        },
+
+        {
+            "key": "CommandTitle",
+            "value": "Command"
+        },
+        {
+            "key": "CommandText",
+            "value": "Choose a Creature. Adjacent chreatures take damage equal to its strength."
+        },
+        {
+            "key": "CommandUTitle",
+            "value": "Command"
+        },
+        {
+            "key": "CommandUText",
+            "value": "<b>Infused.</b> Stun a Creature. Adjacent chreatures take damage equal to its strength."
         },
 
         {

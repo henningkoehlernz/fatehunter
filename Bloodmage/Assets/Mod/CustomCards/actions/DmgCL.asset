@@ -8,13 +8,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a57e0128867e43ce8a723f258ec3426, type: 3}
-  m_Name: DrawNext
+  m_Script: {fileID: 11500000, guid: 9ccf07e26b85b284883d3d3a2e30ba7b, type: 3}
+  m_Name: DmgCL
   m_EditorClassIdentifier: 
   probability: 1
   targets:
     targetSelection: 0
-    possibleTargets: []
+    possibleTargets:
+    - owner: 1
+      targetType: 1
+      creatureType: 0
+      nonCreatureType: 0
   targetAttackRange:
     min: 0
     max: 2147483647
@@ -27,4 +31,9 @@ MonoBehaviour:
   actionConditions: []
   playerPhrase: 
   hidden: 0
-  modifier: 0
+  mode: 0
+  value:
+    min: 1
+    max: 3
+  valueSelectors: []
+  criticalStrike: 1

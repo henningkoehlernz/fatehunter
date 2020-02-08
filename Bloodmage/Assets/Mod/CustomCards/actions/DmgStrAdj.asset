@@ -9,11 +9,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9ccf07e26b85b284883d3d3a2e30ba7b, type: 3}
-  m_Name: Dmg1to5
+  m_Name: DmgStrAdj
   m_EditorClassIdentifier: 
   probability: 1
   targets:
-    targetSelection: 0
+    targetSelection: 3
     possibleTargets:
     - owner: 1
       targetType: 1
@@ -31,9 +31,10 @@ MonoBehaviour:
   actionConditions: []
   playerPhrase: 
   hidden: 0
-  mode: 0
+  mode: 1
   value:
-    min: 1
-    max: 5
-  valueSelectors: []
+    min: 0
+    max: 0
+  valueSelectors:
+  - {fileID: 11400000, guid: ed64795e16e8c4f1ab71b93dfd4552c9, type: 2}
   criticalStrike: 0
