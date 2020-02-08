@@ -10,11 +10,11 @@
         },
         {
             "key": "BloodMageAbilityTitle",
-            "value": "Blood Magic"
+            "value": "Infuse"
         },
         {
             "key": "BloodMageAbilityText",
-            "value": "A blood mage can infuse skills with life essence."
+            "value": "Infusing a skill permanently empowers its effect, but reduces max HP by 1. If an infused skill is exiled, the lost HP is restored."
         },
         {
             "key": "BloodMagicTitle",
