@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88fef69b49fcba240b36f7a3a717cc53, type: 3}
+  m_Name: InfernalContractBloodMage
+  m_EditorClassIdentifier: 
+  path: Assets/Mod/CustomCards/InfernalContractBloodMage.asset
+  modId: 
+  localizationKey: 
+  additionalKeywords: []
+  material: {fileID: 2100000, guid: 0a467d6cbc0227a47951dcc391383d67, type: 2}
+  gold: 0
+  price: 300
+  type: 5
+  additionalType: 0
+  rarity: 2
+  upgrade: {fileID: 0}
+  downgrade: {fileID: 0}
+  handLock: 0
+  limited: 0
+  canBeExiled: 1
+  actions:
+  - {fileID: 11400000, guid: 74b9a3b9049ab45ad9223fd46c8136e1, type: 2}
+  - {fileID: 11400000, guid: efb83ced6ad73402caaed0a666158ac0, type: 2}
+  - {fileID: 11400000, guid: d1588bd96cfbc46bb884a044063d5106, type: 2}
+  - {fileID: 11400000, guid: 912eb3a2139ca414ca435df99acb7b8d, type: 2}
+  - {fileID: 11400000, guid: e9cf5c21ffe1e455eb3fcc92ae113849, type: 2}
+  ultimateActions: []
+  onStartTurnActions: []
+  onEndTurnActions: []
+  onRoomChangedActions: []
+  onCardPlayedActions: []
+  discardActions: []
+  exileActions: []
+  onTakeDamageActions: []
+  onDeathActions: []
+  auras: []
+  possibleCards: []
+  actionAfterPlaying: 1
+  vfxType: 2
+  playSfx: {fileID: 0}

@@ -58,6 +58,15 @@
         },
 
         {
+            "key": "InfernalContractBloodMageTitle",
+            "value": "Blood Pact"
+        },
+        {
+            "key": "InfernalContractBloodMageText",
+            "value": "Draw and infuse all infusable skills from your deck. Take 1 damage per skill infused."
+        },
+
+        {
             "key": "AcidSplashTitle",
             "value": "Acid Splash"
         },
