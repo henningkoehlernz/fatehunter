@@ -28,7 +28,8 @@ MonoBehaviour:
   playerHealthRange:
     min: 0
     max: 2147483647
-  actionConditions: []
+  actionConditions:
+  - {fileID: 11400000, guid: a22241ce443674482856feac58e57c36, type: 2}
   playerPhrase: 
   hidden: 0
   cards:

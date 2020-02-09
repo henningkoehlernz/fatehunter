@@ -63,7 +63,7 @@
         },
         {
             "key": "InfernalContractBloodMageText",
-            "value": "Draw and infuse all infusable skills from your deck. Take 1 damage per skill infused."
+            "value": "<b>One Use.</b> Draw and infuse all infusable skills from your deck. Take 1 damage per skill infused."
         },
 
         {

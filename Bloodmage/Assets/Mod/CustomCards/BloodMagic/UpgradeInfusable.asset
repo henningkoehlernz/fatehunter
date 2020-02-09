@@ -34,4 +34,4 @@ MonoBehaviour:
   hidden: 0
   cardSelectors:
   - {fileID: 11400000, guid: bf5b83055b9694fe0bc6d374fb5cdf93, type: 2}
-  - {fileID: 11400000, guid: fad990e25ae1747eb9aebe680cbb1048, type: 2}
+  - {fileID: 11400000, guid: 7148fdbde71b4476395512d29c56b096, type: 2}
