@@ -29,7 +29,7 @@ MonoBehaviour:
   canBeExiled: 1
   actions:
   - {fileID: 11400000, guid: 7ad3fdb7632b742aa96f90203cb489b5, type: 2}
-  - {fileID: 11400000, guid: 0a480ee6823554721925f07002c8d427, type: 2}
+  - {fileID: 11400000, guid: 7ad3fdb7632b742aa96f90203cb489b5, type: 2}
   ultimateActions: []
   onStartTurnActions: []
   onEndTurnActions: []

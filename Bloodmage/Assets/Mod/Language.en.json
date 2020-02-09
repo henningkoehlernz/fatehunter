@@ -123,7 +123,7 @@
         },
         {
             "key": "BestowCurseText",
-            "value": "Reduce the attack of a creature by 1. If its attack was 0, silence it."
+            "value": "Reduce the attack of a creature by 1. If it was 0, silence it."
         },
         {
             "key": "BestowCurseUTitle",
@@ -131,7 +131,7 @@
         },
         {
             "key": "BestowCurseUText",
-            "value": "<b>Infused.</b> Reduce the attack of a creature by 2. If its attack was 0 or 1, silence it."
+            "value": "<b>Infused.</b> Reduce the attack of a creature by 2. If it was 0 or 1, silence it."
         },
 
         {
@@ -157,7 +157,7 @@
         },
         {
             "key": "CommandText",
-            "value": "Choose a Creature. Adjacent chreatures take damage equal to its strength."
+            "value": "Choose a Creature. Adjacent creatures take damage equal to its strength."
         },
         {
             "key": "CommandUTitle",
@@ -165,7 +165,7 @@
         },
         {
             "key": "CommandUText",
-            "value": "<b>Infused.</b> Stun a Creature. Adjacent chreatures take damage equal to its strength."
+            "value": "<b>Infused.</b> Choose a Creature. Adjacent creatures take damage equal to its strength twice."
         },
 
         {
