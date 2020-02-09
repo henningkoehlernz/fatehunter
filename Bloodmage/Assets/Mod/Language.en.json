@@ -22,7 +22,7 @@
         },
         {
             "key": "BloodMagicText",
-            "value": "<b>Permanent. Choose One</b> - Infuse a skill in your hand; Deal 1 damage to yourself and 5 damage to a random creature."
+            "value": "<b>Permanent. Choose One</b> - Infuse a skill in your hand; Lose 1 HP and deal 5 damage to a random creature."
         },
         {
             "key": "InfuseTitle",
@@ -38,7 +38,7 @@
         },
         {
             "key": "WildMagicText",
-            "value": "Deal 1 damage to yourself and 5 damage to a random creature."
+            "value": "Lose 1 HP and deal 5 damage to a random creature."
         },
         {
             "key": "KeyInfusableTitle",
@@ -89,6 +89,15 @@
         {
             "key": "BROptSpendText",
             "value": "Rage 2: Draw all infused cards in your draw pile."
+        },
+
+        {
+            "key": "HiddenReservesTitle",
+            "value": "Hidden Reserves"
+        },
+        {
+            "key": "HiddenReservesText",
+            "value": "Lose 1 HP and deal 5 damage to 2 random creatures. If exiled, raise max HP by 2."
         },
 
         {
