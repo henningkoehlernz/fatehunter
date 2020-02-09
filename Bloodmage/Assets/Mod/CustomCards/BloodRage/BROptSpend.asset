@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88fef69b49fcba240b36f7a3a717cc53, type: 3}
+  m_Name: BROptSpend
+  m_EditorClassIdentifier: 
+  path: Assets/Mod/CustomCards/BloodRage/BROptSpend.asset
+  modId: 
+  localizationKey: 
+  additionalKeywords: []
+  material: {fileID: 2100000, guid: 8b8708e415bb9459792af87396fd95b4, type: 2}
+  gold: 0
+  price: 0
+  type: 2
+  additionalType: 9
+  rarity: 2
+  upgrade: {fileID: 0}
+  downgrade: {fileID: 0}
+  handLock: 0
+  limited: 0
+  canBeExiled: 1
+  actions:
+  - {fileID: 11400000, guid: 2be759fa6053d43e2b6d7f15d224d52b, type: 2}
+  - {fileID: 11400000, guid: a6942b21952064b27bcf7ff9cedfaf4d, type: 2}
+  ultimateActions: []
+  onStartTurnActions: []
+  onEndTurnActions: []
+  onRoomChangedActions: []
+  onCardPlayedActions: []
+  discardActions: []
+  exileActions: []
+  onTakeDamageActions: []
+  onDeathActions: []
+  auras: []
+  possibleCards: []
+  actionAfterPlaying: 0
+  vfxType: 2
+  playSfx: {fileID: 0}

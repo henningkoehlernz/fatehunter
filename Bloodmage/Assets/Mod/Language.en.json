@@ -67,6 +67,31 @@
         },
 
         {
+            "key": "BloodRageTitle",
+            "value": "Blood Rage"
+        },
+        {
+            "key": "BloodRageText",
+            "value": "<b>Choose One</b> - Lose 1 HP and gain 5 rage; Rage 2: Draw all infused cards in your draw pile."
+        },
+        {
+            "key": "BROptAddTitle",
+            "value": "Gain Rage"
+        },
+        {
+            "key": "BROptAddText",
+            "value": "Take 1 damage and gain 5 rage."
+        },
+        {
+            "key": "BROptSpendTitle",
+            "value": "Spend Rage"
+        },
+        {
+            "key": "BROptSpendText",
+            "value": "Rage 2: Draw all infused cards in your draw pile."
+        },
+
+        {
             "key": "AcidSplashTitle",
             "value": "Acid Splash"
         },
