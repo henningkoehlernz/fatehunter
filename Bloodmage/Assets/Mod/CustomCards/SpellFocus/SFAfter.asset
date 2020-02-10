@@ -9,7 +9,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c672ea87f139a5b4d81dd4d4e04d5b03, type: 3}
-  m_Name: SFBefore1
+  m_Name: SFAfter
   m_EditorClassIdentifier: 
   probability: 1
   targets:
@@ -33,6 +33,6 @@ MonoBehaviour:
   playerPhrase: 
   hidden: 0
   actions:
-  - {fileID: 11400000, guid: 13d60f20c735c43c7b03ce54f9b8c660, type: 2}
-  mode: 2
+  - {fileID: 11400000, guid: 32141d827e9d5423da49de297d7452f8, type: 2}
+  mode: 1
   lifetime: 1

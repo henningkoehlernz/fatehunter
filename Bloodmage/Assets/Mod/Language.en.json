@@ -115,7 +115,7 @@
         },
         {
             "key": "SpellFocusText",
-            "value": "<b>Permanent. Reserve.</b> The first skill played each turn deals 1 extra damage."
+            "value": "<b>Permanent. Reserve.</b> The first skill played each turn deals 1 extra damage. Does not stack."
         },
 
         {
