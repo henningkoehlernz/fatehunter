@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c672ea87f139a5b4d81dd4d4e04d5b03, type: 3}
+  m_Name: SFAfter1
+  m_EditorClassIdentifier: 
+  probability: 1
+  targets:
+    targetSelection: 0
+    possibleTargets:
+    - owner: 0
+      targetType: 0
+      creatureType: 0
+      nonCreatureType: 0
+  targetAttackRange:
+    min: 0
+    max: 2147483647
+  targetHealthRange:
+    min: 0
+    max: 2147483647
+  playerHealthRange:
+    min: 0
+    max: 2147483647
+  actionConditions:
+  - {fileID: 11400000, guid: 5fbce03524e41428e876f4500385e278, type: 2}
+  playerPhrase: 
+  hidden: 0
+  actions:
+  - {fileID: 11400000, guid: 23919080a0d794a36bb63154d769889c, type: 2}
+  mode: 1
+  lifetime: 1

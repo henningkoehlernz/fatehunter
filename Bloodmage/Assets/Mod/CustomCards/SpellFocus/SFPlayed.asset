@@ -8,7 +8,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f3d0b8d4fe949fea3a1bb9dec399dbb, type: 3}
-  m_Name: SFPlayedWeapon
+  m_Script: {fileID: 11500000, guid: 7c88d6958aac40c29bf23e307abf7c3c, type: 3}
+  m_Name: SFPlayed
   m_EditorClassIdentifier: 
-  cardType: 3
+  cardType: 2
+  cardNoneType: 0

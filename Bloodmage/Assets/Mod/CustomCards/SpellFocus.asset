@@ -31,14 +31,12 @@ MonoBehaviour:
   onStartTurnActions: []
   onEndTurnActions: []
   onRoomChangedActions: []
-  onCardPlayedActions:
-  - {fileID: 11400000, guid: d9c9f6736e13b4ed180cec28e99cc5cf, type: 2}
+  onCardPlayedActions: []
   discardActions: []
   exileActions: []
   onTakeDamageActions: []
   onDeathActions: []
-  auras:
-  - {fileID: 11400000, guid: 4e0cf5af76881445e9c0a32cb42d8ce6, type: 2}
+  auras: []
   possibleCards: []
   actionAfterPlaying: 0
   vfxType: 0

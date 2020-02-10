@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 495cc04b67ce08542b9377c3911d2b3d, type: 3}
+  m_Name: SFDmgDec
+  m_EditorClassIdentifier: 
+  probability: 1
+  targets:
+    targetSelection: 0
+    possibleTargets:
+    - owner: 0
+      targetType: 0
+      creatureType: 0
+      nonCreatureType: 0
+  targetAttackRange:
+    min: 0
+    max: 2147483647
+  targetHealthRange:
+    min: 0
+    max: 2147483647
+  playerHealthRange:
+    min: 0
+    max: 2147483647
+  actionConditions:
+  - {fileID: 11400000, guid: 6ce41aa85d0604d5bb8be0c721a654b9, type: 2}
+  playerPhrase: 
+  hidden: 0
+  value: -1
+  cardType: 2

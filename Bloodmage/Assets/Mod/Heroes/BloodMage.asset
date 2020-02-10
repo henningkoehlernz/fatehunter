@@ -28,11 +28,12 @@ MonoBehaviour:
   canBeExiled: 1
   actions: []
   ultimateActions: []
-  onStartTurnActions: []
+  onStartTurnActions:
+  - {fileID: 11400000, guid: 9484bcb4428c24a37a79d2520cb7dfd0, type: 2}
+  - {fileID: 11400000, guid: 9de884143966a4f43a22eaaa3d140b03, type: 2}
   onEndTurnActions: []
   onRoomChangedActions: []
-  onCardPlayedActions:
-  - {fileID: 11400000, guid: d9c9f6736e13b4ed180cec28e99cc5cf, type: 2}
+  onCardPlayedActions: []
   discardActions: []
   exileActions: []
   onTakeDamageActions: []

@@ -8,8 +8,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d55c2cc8fee24894fb2e047f4858739b, type: 3}
-  m_Name: SFDiscard
+  m_Script: {fileID: 11500000, guid: c672ea87f139a5b4d81dd4d4e04d5b03, type: 3}
+  m_Name: SFBefore1
   m_EditorClassIdentifier: 
   probability: 1
   targets:
@@ -29,9 +29,10 @@ MonoBehaviour:
     min: 0
     max: 2147483647
   actionConditions:
-  - {fileID: 11400000, guid: 1b3d56c7636e945529d5bf48891418f7, type: 2}
+  - {fileID: 11400000, guid: 5fbce03524e41428e876f4500385e278, type: 2}
   playerPhrase: 
   hidden: 0
-  place: 0
-  cardSelectors:
-  - {fileID: 11400000, guid: 905f8b8c31923493b97f93e396d3df31, type: 2}
+  actions:
+  - {fileID: 11400000, guid: 13d60f20c735c43c7b03ce54f9b8c660, type: 2}
+  mode: 2
+  lifetime: 1
