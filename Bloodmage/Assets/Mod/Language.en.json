@@ -101,6 +101,15 @@
         },
 
         {
+            "key": "PolymorphTitle",
+            "value": "Polymorph"
+        },
+        {
+            "key": "PolymorphText",
+            "value": "Replace a random (legendary) weapon with a random (infused) skill."
+        },
+
+        {
             "key": "SpellFocusTitle",
             "value": "Spell Focus"
         },
