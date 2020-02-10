@@ -8,8 +8,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 339439b77888a468e95fa235d4732e53, type: 3}
-  m_Name: BRDec
+  m_Script: {fileID: 11500000, guid: d55c2cc8fee24894fb2e047f4858739b, type: 3}
+  m_Name: SFDiscard
   m_EditorClassIdentifier: 
   probability: 1
   targets:
@@ -28,7 +28,10 @@ MonoBehaviour:
   playerHealthRange:
     min: 0
     max: 2147483647
-  actionConditions: []
+  actionConditions:
+  - {fileID: 11400000, guid: 1b3d56c7636e945529d5bf48891418f7, type: 2}
   playerPhrase: 
   hidden: 0
-  rage: 10
+  place: 0
+  cardSelectors:
+  - {fileID: 11400000, guid: 905f8b8c31923493b97f93e396d3df31, type: 2}

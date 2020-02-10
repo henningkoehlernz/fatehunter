@@ -15,7 +15,7 @@ MonoBehaviour:
   modId: 
   localizationKey: 
   additionalKeywords: []
-  material: {fileID: 2100000, guid: 9e329c3d06bc543aea2bfbabef010e04, type: 2}
+  material: {fileID: 2100000, guid: 501f4559431e44fe5a78ca8467006fab, type: 2}
   gold: 0
   price: 0
   type: 0
@@ -31,7 +31,8 @@ MonoBehaviour:
   onStartTurnActions: []
   onEndTurnActions: []
   onRoomChangedActions: []
-  onCardPlayedActions: []
+  onCardPlayedActions:
+  - {fileID: 11400000, guid: d9c9f6736e13b4ed180cec28e99cc5cf, type: 2}
   discardActions: []
   exileActions: []
   onTakeDamageActions: []

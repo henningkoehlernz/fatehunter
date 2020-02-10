@@ -8,8 +8,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 339439b77888a468e95fa235d4732e53, type: 3}
-  m_Name: BRDec
+  m_Script: {fileID: 11500000, guid: f2f7d83d225f44159813758837bbe1c3, type: 3}
+  m_Name: BRDraw
   m_EditorClassIdentifier: 
   probability: 1
   targets:
@@ -31,4 +31,5 @@ MonoBehaviour:
   actionConditions: []
   playerPhrase: 
   hidden: 0
-  rage: 10
+  cardSelectors:
+  - {fileID: 11400000, guid: 64d815bf9d17b4751af214ed4856efa1, type: 2}

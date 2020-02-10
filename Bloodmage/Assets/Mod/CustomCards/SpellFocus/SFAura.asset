@@ -8,8 +8,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 339439b77888a468e95fa235d4732e53, type: 3}
-  m_Name: BRDec
+  m_Script: {fileID: 11500000, guid: cc8913e6eaafa4ca4ba7fc4d078ee123, type: 3}
+  m_Name: SFAura
   m_EditorClassIdentifier: 
   probability: 1
   targets:
@@ -31,4 +31,11 @@ MonoBehaviour:
   actionConditions: []
   playerPhrase: 
   hidden: 0
-  rage: 10
+  title: 
+  description: 
+  attack: 0
+  attackMultiplier: 1
+  health: 0
+  cardsPerTurn: 0
+  startTurnCards: 0
+  skillDamageModifier: 1

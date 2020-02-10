@@ -9,13 +9,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 88fef69b49fcba240b36f7a3a717cc53, type: 3}
-  m_Name: BROptAdd
+  m_Name: SpellFocus
   m_EditorClassIdentifier: 
-  path: Assets/Mod/CustomCards/BloodRage/BROptAdd.asset
+  path: Assets/Mod/CustomCards/SpellFocus.asset
   modId: 
   localizationKey: 
   additionalKeywords: []
-  material: {fileID: 2100000, guid: 8b8708e415bb9459792af87396fd95b4, type: 2}
+  material: {fileID: 2100000, guid: a950e97b70e5d7949b9aee3e2d593688, type: 2}
   gold: 0
   price: 0
   type: 2
@@ -23,23 +23,23 @@ MonoBehaviour:
   rarity: 2
   upgrade: {fileID: 0}
   downgrade: {fileID: 0}
-  handLock: 0
+  handLock: 1
   limited: 0
-  canBeExiled: 1
-  actions:
-  - {fileID: 11400000, guid: eaabe8ca19fc743e8b644e01fd95dc88, type: 2}
-  - {fileID: 11400000, guid: eb220c0cc2f8148fc8aa6281f1127b60, type: 2}
+  canBeExiled: 0
+  actions: []
   ultimateActions: []
   onStartTurnActions: []
   onEndTurnActions: []
   onRoomChangedActions: []
-  onCardPlayedActions: []
+  onCardPlayedActions:
+  - {fileID: 11400000, guid: d9c9f6736e13b4ed180cec28e99cc5cf, type: 2}
   discardActions: []
   exileActions: []
   onTakeDamageActions: []
   onDeathActions: []
-  auras: []
+  auras:
+  - {fileID: 11400000, guid: 4e0cf5af76881445e9c0a32cb42d8ce6, type: 2}
   possibleCards: []
   actionAfterPlaying: 0
-  vfxType: 2
+  vfxType: 0
   playSfx: {fileID: 0}

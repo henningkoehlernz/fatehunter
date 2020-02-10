@@ -72,23 +72,23 @@
         },
         {
             "key": "BloodRageText",
-            "value": "<b>Choose One</b> - Lose 1 HP and gain 5 rage; Rage 2: Draw all infused cards in your draw pile."
+            "value": "Gain 5 rage and draw a card. <b>Rage 10:</b> Draw all infused cards in your draw pile."
         },
         {
             "key": "BROptAddTitle",
-            "value": "Gain Rage"
+            "value": "Blood Rage"
         },
         {
             "key": "BROptAddText",
-            "value": "Take 1 damage and gain 5 rage."
+            "value": "Don't spend rage."
         },
         {
             "key": "BROptSpendTitle",
-            "value": "Spend Rage"
+            "value": "Blood Rage"
         },
         {
             "key": "BROptSpendText",
-            "value": "Rage 2: Draw all infused cards in your draw pile."
+            "value": "<b>Rage 10:</b> Draw all infused cards in your draw pile."
         },
 
         {
@@ -98,6 +98,15 @@
         {
             "key": "HiddenReservesText",
             "value": "Lose 1 HP and deal 5 damage to 2 random creatures. If exiled, raise max HP by 2."
+        },
+
+        {
+            "key": "SpellFocusTitle",
+            "value": "Spell Focus"
+        },
+        {
+            "key": "SpellFocusText",
+            "value": "<b>Permanent. Reserve.</b> Skills deal 1 more damage. Discard if you play a weapon."
         },
 
         {
