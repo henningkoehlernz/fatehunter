@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88fef69b49fcba240b36f7a3a717cc53, type: 3}
+  m_Name: Frostbite
+  m_EditorClassIdentifier: 
+  path: Assets/Mod/CustomCards/Frostbite.asset
+  modId: 
+  localizationKey: 
+  additionalKeywords:
+  - {fileID: 11400000, guid: 7860a052016e4483e8a19dfc630dc3cb, type: 2}
+  material: {fileID: 2100000, guid: 8eb3e4a1eae474884822528f4d924434, type: 2}
+  gold: 0
+  price: 0
+  type: 2
+  additionalType: 0
+  rarity: 0
+  upgrade: {fileID: 11400000, guid: 7f48f7b29a5ce4b66aacab8239b48ca3, type: 2}
+  downgrade: {fileID: 0}
+  handLock: 0
+  limited: 0
+  canBeExiled: 1
+  actions:
+  - {fileID: 11400000, guid: ec3ceef22ee6d412982ab2128839d8b7, type: 2}
+  - {fileID: 11400000, guid: fd5177f237db44784bbcbe7499d5531c, type: 2}
+  ultimateActions: []
+  onStartTurnActions: []
+  onEndTurnActions: []
+  onRoomChangedActions: []
+  onCardPlayedActions: []
+  discardActions: []
+  exileActions: []
+  onTakeDamageActions: []
+  onDeathActions: []
+  auras: []
+  possibleCards: []
+  actionAfterPlaying: 0
+  vfxType: 2
+  playSfx: {fileID: 0}

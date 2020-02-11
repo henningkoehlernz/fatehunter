@@ -175,7 +175,7 @@
         },
         {
             "key": "CommandText",
-            "value": "Choose a Creature. Adjacent creatures take damage equal to its strength."
+            "value": "Choose a Creature. Adjacent creatures take damage equal to its attack."
         },
         {
             "key": "CommandUTitle",
@@ -183,7 +183,7 @@
         },
         {
             "key": "CommandUText",
-            "value": "<b>Infused.</b> Choose a Creature. Adjacent creatures take damage equal to its strength twice."
+            "value": "<b>Infused.</b> Choose a Creature. Adjacent creatures take damage equal to its attack twice."
         },
 
         {
@@ -218,6 +218,23 @@
         {
             "key": "FireStormUText",
             "value": "<b>Infused.</b> Deal 4 damage to a creature and adjacent ones."
+        },
+
+        {
+            "key": "FrostbiteTitle",
+            "value": "Frostbite"
+        },
+        {
+            "key": "FrostbiteText",
+            "value": "Deal 1 damage to all creature. Stun creatures with 1 attack or less."
+        },
+        {
+            "key": "FrostbiteUTitle",
+            "value": "Frostbite"
+        },
+        {
+            "key": "FrostbiteUText",
+            "value": "<b>Infused.</b> Deal 2 damage to all creature. Stun creatures with 2 attack or less."
         }
     ]
 }
