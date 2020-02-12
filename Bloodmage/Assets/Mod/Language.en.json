@@ -56,6 +56,14 @@
             "key": "KeyInfusedText",
             "value": "If card is exiled, raise max HP by 1."
         },
+        {
+            "key": "KeySpellFocusTitle",
+            "value": "Spell Focus"
+        },
+        {
+            "key": "KeySpellFocusText",
+            "value": "Number of Spell Focus (heroic skill) cards in your hand."
+        },
 
         {
             "key": "InfernalContractBloodMageTitle",
@@ -184,6 +192,23 @@
         {
             "key": "CommandUText",
             "value": "<b>Infused.</b> Choose a Creature. Adjacent creatures take damage equal to its attack twice."
+        },
+
+        {
+            "key": "DisintegrateTitle",
+            "value": "Disintegrate"
+        },
+        {
+            "key": "DisintegrateText",
+            "value": "Deal X damage 3 times, where X is your spell focus (minimum 1)."
+        },
+        {
+            "key": "DisintegrateUTitle",
+            "value": "Disintegrate"
+        },
+        {
+            "key": "DisintegrateUText",
+            "value": "<b>Infused.</b> Deal X damage 6 times, where X is your spell focus (minimum 1)."
         },
 
         {
