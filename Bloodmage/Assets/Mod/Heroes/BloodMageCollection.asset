@@ -15,10 +15,10 @@ MonoBehaviour:
   modId: 
   cards:
   - {fileID: 11400000, guid: e8499cb054e9a6a45b2a916b944e97d5, type: 2}
-  - {fileID: 11400000, guid: f70cf4a966171d24e8b0415a984f5593, type: 2}
+  - {fileID: 11400000, guid: 745f3ae6dc208ea41ab1489a8abc0a3a, type: 2}
   - {fileID: 11400000, guid: 2506d22a3b6eaa74daa3fa464df38b67, type: 2}
   - {fileID: 11400000, guid: e335033c4a64a2b46b85effa9c718f1f, type: 2}
   - {fileID: 11400000, guid: 432c827cf9dc7544b81cee2e05ca2092, type: 2}
-  - {fileID: 11400000, guid: 03073990a0198764fb4d1f3b5b73498c, type: 2}
-  - {fileID: 11400000, guid: 745f3ae6dc208ea41ab1489a8abc0a3a, type: 2}
+  - {fileID: 11400000, guid: 3001851224ce8494a9f0eb23c523e40d, type: 2}
+  - {fileID: 11400000, guid: a3aeb79adab7f844c995fb62b92d22cb, type: 2}
   - {fileID: 11400000, guid: e251932bb23484fecaaf6f37e23f21d4, type: 2}

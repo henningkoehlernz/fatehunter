@@ -56,14 +56,6 @@
             "key": "KeyInfusedText",
             "value": "If card is exiled, raise max HP by 1."
         },
-        {
-            "key": "KeySpellFocusTitle",
-            "value": "Spell Focus"
-        },
-        {
-            "key": "KeySpellFocusText",
-            "value": "Number of Spell Focus (heroic skill) cards in your hand."
-        },
 
         {
             "key": "InfernalContractBloodMageTitle",
@@ -123,7 +115,7 @@
         },
         {
             "key": "SpellFocusText",
-            "value": "<b>Permanent. Reserve.</b> The first skill played each turn deals 1 extra damage. Does not stack."
+            "value": "<b>Permanent. Reserve.</b> The first skill played each turn deals 1 extra damage."
         },
 
         {
@@ -200,7 +192,7 @@
         },
         {
             "key": "DisintegrateText",
-            "value": "Deal X damage 3 times, where X is your spell focus (minimum 1)."
+            "value": "Deal 1 damage 3 times."
         },
         {
             "key": "DisintegrateUTitle",
@@ -208,7 +200,7 @@
         },
         {
             "key": "DisintegrateUText",
-            "value": "<b>Infused.</b> Deal X damage 6 times, where X is your spell focus (minimum 1)."
+            "value": "<b>Infused.</b> Deal 1 damage 6 times."
         },
 
         {

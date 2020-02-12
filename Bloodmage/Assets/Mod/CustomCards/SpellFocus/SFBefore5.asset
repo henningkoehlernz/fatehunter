@@ -8,8 +8,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9ccf07e26b85b284883d3d3a2e30ba7b, type: 3}
-  m_Name: SFDmgCount
+  m_Script: {fileID: 11500000, guid: c672ea87f139a5b4d81dd4d4e04d5b03, type: 3}
+  m_Name: SFBefore5
   m_EditorClassIdentifier: 
   probability: 1
   targets:
@@ -29,13 +29,10 @@ MonoBehaviour:
     min: 0
     max: 2147483647
   actionConditions:
-  - {fileID: 11400000, guid: 86cd1e346db26407d871d8953af5babf, type: 2}
+  - {fileID: 11400000, guid: 0035b2af28ca448139ebae26e063c834, type: 2}
   playerPhrase: 
   hidden: 0
-  mode: 1
-  value:
-    min: 0
-    max: 0
-  valueSelectors:
-  - {fileID: 11400000, guid: f35e55ca102a441d9b0b44f1322bd02f, type: 2}
-  criticalStrike: 0
+  actions:
+  - {fileID: 11400000, guid: 0e1760ad5e44f44ebbb0f0167c6f1075, type: 2}
+  mode: 2
+  lifetime: 1

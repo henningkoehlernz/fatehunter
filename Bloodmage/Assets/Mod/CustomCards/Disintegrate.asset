@@ -16,7 +16,6 @@ MonoBehaviour:
   localizationKey: 
   additionalKeywords:
   - {fileID: 11400000, guid: 7860a052016e4483e8a19dfc630dc3cb, type: 2}
-  - {fileID: 11400000, guid: d1bc169549b2f4f7596678aef534cd44, type: 2}
   material: {fileID: 2100000, guid: d616fc0613d32ef419511b1dea9456ab, type: 2}
   gold: 0
   price: 0
@@ -32,10 +31,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 96fddbf4671344884a3fddb0af7c74d2, type: 2}
   - {fileID: 11400000, guid: 96fddbf4671344884a3fddb0af7c74d2, type: 2}
   - {fileID: 11400000, guid: 96fddbf4671344884a3fddb0af7c74d2, type: 2}
-  ultimateActions:
-  - {fileID: 11400000, guid: 5e8a7b00ca5af4540ad1c83af2907961, type: 2}
-  - {fileID: 11400000, guid: 5e8a7b00ca5af4540ad1c83af2907961, type: 2}
-  - {fileID: 11400000, guid: 5e8a7b00ca5af4540ad1c83af2907961, type: 2}
+  ultimateActions: []
   onStartTurnActions: []
   onEndTurnActions: []
   onRoomChangedActions: []

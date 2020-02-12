@@ -31,6 +31,14 @@ MonoBehaviour:
   onStartTurnActions:
   - {fileID: 11400000, guid: 9484bcb4428c24a37a79d2520cb7dfd0, type: 2}
   - {fileID: 11400000, guid: 9de884143966a4f43a22eaaa3d140b03, type: 2}
+  - {fileID: 11400000, guid: d5d3a8fd4ed904626a27214111ffebb9, type: 2}
+  - {fileID: 11400000, guid: c021ce27eb52945288e1a0c87e77570d, type: 2}
+  - {fileID: 11400000, guid: 36b1f256e0e004961b03275ed4d25d21, type: 2}
+  - {fileID: 11400000, guid: 07ade3032b3c5420ba8458e9dc54c274, type: 2}
+  - {fileID: 11400000, guid: 89f815d23ec1b48fc891933d42ac8c7e, type: 2}
+  - {fileID: 11400000, guid: b35fee8d52592463fad32f5be7f8aecd, type: 2}
+  - {fileID: 11400000, guid: 74e4c482ba9704061a9a9cc3c941cf2f, type: 2}
+  - {fileID: 11400000, guid: e79178ab3b53440ae89f19ef0a331be8, type: 2}
   onEndTurnActions: []
   onRoomChangedActions: []
   onCardPlayedActions: []
@@ -44,7 +52,7 @@ MonoBehaviour:
   vfxType: 0
   playSfx: {fileID: 0}
   attack: 0
-  health: 15
+  health: 17
   shield: 0
   taunt: 0
   experience: 0
@@ -66,7 +74,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 77a5f18a3cc65411ea0287fd56ac12d8, type: 2}
   supply:
   - {fileID: 11400000, guid: e8499cb054e9a6a45b2a916b944e97d5, type: 2}
-  - {fileID: 11400000, guid: f70cf4a966171d24e8b0415a984f5593, type: 2}
+  - {fileID: 11400000, guid: 745f3ae6dc208ea41ab1489a8abc0a3a, type: 2}
   - {fileID: 11400000, guid: e335033c4a64a2b46b85effa9c718f1f, type: 2}
   - {fileID: 11400000, guid: 2506d22a3b6eaa74daa3fa464df38b67, type: 2}
   - {fileID: 11400000, guid: 432c827cf9dc7544b81cee2e05ca2092, type: 2}

@@ -8,9 +8,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: eb189963d0b7888409037451afc1cfab, type: 3}
-  m_Name: SFCount
+  m_Script: {fileID: 11500000, guid: a5ea7f7bf94c4a849008d045cb47c4c8, type: 3}
+  m_Name: SFHas4
   m_EditorClassIdentifier: 
-  multiplier: 1
-  cardsCollection: {fileID: 11400000, guid: 6dff15f171c1b4ccca50fa1c029f7b2c, type: 2}
-  selectorPlace: 0
+  cardsCountRange:
+    min: 4
+    max: 2147483647
+  owner: 0
+  place: 0
+  cardSelectors:
+  - {fileID: 11400000, guid: 4fd7c638d4144439e97493f77764451c, type: 2}
