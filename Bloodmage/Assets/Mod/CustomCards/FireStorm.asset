@@ -16,11 +16,12 @@ MonoBehaviour:
   localizationKey: 
   additionalKeywords:
   - {fileID: 11400000, guid: 7860a052016e4483e8a19dfc630dc3cb, type: 2}
+  - {fileID: 11400000, guid: 2cf2810d36e604f9b82813996af39713, type: 2}
   material: {fileID: 2100000, guid: ee695fccf0ab5405f81bfbf817cd0494, type: 2}
   gold: 0
   price: 0
   type: 2
-  additionalType: 0
+  additionalType: 1
   rarity: 0
   upgrade: {fileID: 11400000, guid: a40fc957d607948ae9cc38a17a134de8, type: 2}
   downgrade: {fileID: 0}

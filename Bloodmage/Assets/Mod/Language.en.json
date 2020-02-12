@@ -56,6 +56,14 @@
             "key": "KeyInfusedText",
             "value": "If card is exiled, raise max HP by 1."
         },
+        {
+            "key": "KeySpellTitle",
+            "value": "Spell"
+        },
+        {
+            "key": "KeySpellText",
+            "value": "Benefits from Spell Focus."
+        },
 
         {
             "key": "InfernalContractBloodMageTitle",
@@ -115,7 +123,7 @@
         },
         {
             "key": "SpellFocusText",
-            "value": "<b>Permanent. Reserve.</b> The first skill played each turn deals 1 extra damage."
+            "value": "<b>Permanent. Reserve.</b> The first spell played each turn deals 1 extra damage."
         },
 
         {
