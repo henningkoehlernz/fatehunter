@@ -1,12 +1,265 @@
 {
     "items": [
         {
-            "key": "ExampleCardTitle",
-            "value": "Example"
+            "key": "BloodMageTitle",
+            "value": "Bloodmage"
         },
         {
-            "key": "ExampleCardText",
-            "value": "<b>Bold text.</b> Normal text"
+            "key": "BloodMageText",
+            "value": "An arcane caster fueling spells with their own blood. This grants powerful effects, but weakens the bloodmage."
+        },
+        {
+            "key": "BloodMageAbilityTitle",
+            "value": "Infuse"
+        },
+        {
+            "key": "BloodMageAbilityText",
+            "value": "Infusing a skill permanently empowers its effect, but reduces max HP by 1. If an infused skill is exiled, the lost HP is restored."
+        },
+        {
+            "key": "BloodMagicTitle",
+            "value": "Blood Magic"
+        },
+        {
+            "key": "BloodMagicText",
+            "value": "<b>Permanent. Choose One</b> - Infuse a skill in your hand; Lose 1 HP and deal 5 damage to a random creature."
+        },
+        {
+            "key": "InfuseTitle",
+            "value": "Infuse"
+        },
+        {
+            "key": "InfuseText",
+            "value": "Upgrade a skill in your hand. Lower max HP by 1."
+        },
+        {
+            "key": "WildMagicTitle",
+            "value": "Blast"
+        },
+        {
+            "key": "WildMagicText",
+            "value": "Lose 1 HP and deal 5 damage to a random creature."
+        },
+        {
+            "key": "KeyInfusableTitle",
+            "value": "Infusable"
+        },
+        {
+            "key": "KeyInfusableText",
+            "value": "Can be infused with blood magic."
+        },
+        {
+            "key": "KeyInfusedTitle",
+            "value": "Infused"
+        },
+        {
+            "key": "KeyInfusedText",
+            "value": "If card is exiled, raise max HP by 1."
+        },
+        {
+            "key": "KeySpellTitle",
+            "value": "Spell"
+        },
+        {
+            "key": "KeySpellText",
+            "value": "Benefits from Spell Focus."
+        },
+
+        {
+            "key": "InfernalContractBloodMageTitle",
+            "value": "Blood Pact"
+        },
+        {
+            "key": "InfernalContractBloodMageText",
+            "value": "<b>One Use.</b> Draw and infuse all infusable skills from your deck. Take 1 damage per skill infused."
+        },
+
+        {
+            "key": "BloodRageTitle",
+            "value": "Blood Rage"
+        },
+        {
+            "key": "BloodRageText",
+            "value": "Gain 4 rage. Draw an infused card. <b>Rage 10:</b> Draw all infused cards in your deck."
+        },
+        {
+            "key": "BROptAddTitle",
+            "value": "Blood Rage"
+        },
+        {
+            "key": "BROptAddText",
+            "value": "Draw an infused card."
+        },
+        {
+            "key": "BROptSpendTitle",
+            "value": "Blood Rage"
+        },
+        {
+            "key": "BROptSpendText",
+            "value": "<b>Rage 10:</b> Draw all infused cards in your deck."
+        },
+
+        {
+            "key": "HiddenReservesTitle",
+            "value": "Hidden Reserves"
+        },
+        {
+            "key": "HiddenReservesText",
+            "value": "Lose 1 HP and deal 5 damage to 2 random creatures. If exiled, raise max HP by 2."
+        },
+
+        {
+            "key": "PolymorphTitle",
+            "value": "Polymorph"
+        },
+        {
+            "key": "PolymorphText",
+            "value": "Replace a random (legendary) weapon with a random (infused) skill."
+        },
+
+        {
+            "key": "SpellFocusTitle",
+            "value": "Spell Focus"
+        },
+        {
+            "key": "SpellFocusText",
+            "value": "<b>Permanent. Reserve.</b> The first spell played each turn deals 1 extra damage."
+        },
+
+        {
+            "key": "AcidSplashTitle",
+            "value": "Acid Splash"
+        },
+        {
+            "key": "AcidSplashText",
+            "value": "Deal 1 damage."
+        },
+        {
+            "key": "AcidSplashUTitle",
+            "value": "Acid Splash"
+        },
+        {
+            "key": "AcidSplashUText",
+            "value": "<b>Infused.</b> Deal 2 damage."
+        },
+
+        {
+            "key": "BestowCurseTitle",
+            "value": "Bestow Curse"
+        },
+        {
+            "key": "BestowCurseText",
+            "value": "Reduce the attack of a creature by 1. If it was 0, silence it."
+        },
+        {
+            "key": "BestowCurseUTitle",
+            "value": "Bestow Curse"
+        },
+        {
+            "key": "BestowCurseUText",
+            "value": "<b>Infused.</b> Reduce the attack of a creature by 2. If it was 0 or 1, silence it."
+        },
+
+        {
+            "key": "CallLightningTitle",
+            "value": "Call Lightning"
+        },
+        {
+            "key": "CallLightningText",
+            "value": "<b>Critical Strike.</b> Deal 1-3 damage. Shuffle this card into the draw pile."
+        },
+        {
+            "key": "CallLightningUTitle",
+            "value": "Call Lightning"
+        },
+        {
+            "key": "CallLightningUText",
+            "value": "<b>Infused. Critical Strike.</b> Deal 2-6 damage. Shuffle this card into the draw pile."
+        },
+
+        {
+            "key": "CommandTitle",
+            "value": "Command"
+        },
+        {
+            "key": "CommandText",
+            "value": "Choose a Creature. Adjacent creatures take damage equal to its attack."
+        },
+        {
+            "key": "CommandUTitle",
+            "value": "Command"
+        },
+        {
+            "key": "CommandUText",
+            "value": "<b>Infused.</b> Choose a Creature. Adjacent creatures take damage equal to its attack twice."
+        },
+
+        {
+            "key": "DisintegrateTitle",
+            "value": "Disintegrate"
+        },
+        {
+            "key": "DisintegrateText",
+            "value": "Deal 1 damage 3 times."
+        },
+        {
+            "key": "DisintegrateUTitle",
+            "value": "Disintegrate"
+        },
+        {
+            "key": "DisintegrateUText",
+            "value": "<b>Infused.</b> Deal 1 damage 6 times."
+        },
+
+        {
+            "key": "DrainLifeTitle",
+            "value": "Drain Life"
+        },
+        {
+            "key": "DrainLifeText",
+            "value": "Deal 2 damage. Heal 1 HP."
+        },
+        {
+            "key": "DrainLifeUTitle",
+            "value": "Drain Life"
+        },
+        {
+            "key": "DrainLifeUText",
+            "value": "<b>Infused.</b> Deal 4 damage. Heal 2 HP."
+        },
+
+        {
+            "key": "FireStormTitle",
+            "value": "Fire Storm"
+        },
+        {
+            "key": "FireStormText",
+            "value": "Deal 2 damage to a creature and adjacent ones."
+        },
+        {
+            "key": "FireStormUTitle",
+            "value": "Fire Storm"
+        },
+        {
+            "key": "FireStormUText",
+            "value": "<b>Infused.</b> Deal 4 damage to a creature and adjacent ones."
+        },
+
+        {
+            "key": "FrostbiteTitle",
+            "value": "Frostbite"
+        },
+        {
+            "key": "FrostbiteText",
+            "value": "Deal 1 damage to all creature. Stun creatures with 1 attack or less."
+        },
+        {
+            "key": "FrostbiteUTitle",
+            "value": "Frostbite"
+        },
+        {
+            "key": "FrostbiteUText",
+            "value": "<b>Infused.</b> Deal 2 damage to all creature. Stun creatures with 2 attack or less."
         }
     ]
 }
