@@ -183,7 +183,7 @@
         },
         {
             "key": "CommandText",
-            "value": "Choose a Creature. Adjacent creatures take damage equal to its attack."
+            "value": "Choose a Creature. Deal damage equal to its attack to adjacent creatures."
         },
         {
             "key": "CommandUTitle",
@@ -191,7 +191,7 @@
         },
         {
             "key": "CommandUText",
-            "value": "<b>Infused.</b> Choose a Creature. Adjacent creatures take damage equal to its attack twice."
+            "value": "<b>Infused.</b> Choose a Creature. Deal damage equal to its attack to adjacent creatures twice."
         },
 
         {
