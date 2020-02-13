@@ -32,4 +32,5 @@ MonoBehaviour:
   playerPhrase: 
   hidden: 0
   cardSelectors:
+  - {fileID: 11400000, guid: a9917fcc69be04ef4914cc970c05d406, type: 2}
   - {fileID: 11400000, guid: 64d815bf9d17b4751af214ed4856efa1, type: 2}

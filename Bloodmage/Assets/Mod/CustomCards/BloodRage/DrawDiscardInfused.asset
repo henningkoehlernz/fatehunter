@@ -8,8 +8,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3f3dab0dec033473a852fb07d3113f64, type: 3}
-  m_Name: BRInc
+  m_Script: {fileID: 11500000, guid: 73d0416b9d5854604a87b399116e54c5, type: 3}
+  m_Name: DrawDiscardInfused
   m_EditorClassIdentifier: 
   probability: 1
   targets:
@@ -31,4 +31,5 @@ MonoBehaviour:
   actionConditions: []
   playerPhrase: 
   hidden: 0
-  rage: 4
+  cardSelectors:
+  - {fileID: 11400000, guid: a9917fcc69be04ef4914cc970c05d406, type: 2}

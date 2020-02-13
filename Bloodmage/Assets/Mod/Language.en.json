@@ -80,7 +80,7 @@
         },
         {
             "key": "BloodRageText",
-            "value": "Gain 5 rage and draw a card. <b>Rage 10:</b> Draw all infused cards in your draw pile."
+            "value": "Gain 4 rage. Draw an infused card. <b>Rage 10:</b> Draw all infused cards in your deck."
         },
         {
             "key": "BROptAddTitle",
@@ -88,7 +88,7 @@
         },
         {
             "key": "BROptAddText",
-            "value": "Don't spend rage."
+            "value": "Draw an infused card."
         },
         {
             "key": "BROptSpendTitle",
@@ -96,7 +96,7 @@
         },
         {
             "key": "BROptSpendText",
-            "value": "<b>Rage 10:</b> Draw all infused cards in your draw pile."
+            "value": "<b>Rage 10:</b> Draw all infused cards in your deck."
         },
 
         {

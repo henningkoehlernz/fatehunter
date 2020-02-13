@@ -30,6 +30,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: eaabe8ca19fc743e8b644e01fd95dc88, type: 2}
   - {fileID: 11400000, guid: eb220c0cc2f8148fc8aa6281f1127b60, type: 2}
   ultimateActions:
+  - {fileID: 11400000, guid: eaabe8ca19fc743e8b644e01fd95dc88, type: 2}
   - {fileID: 11400000, guid: 7252b1964438a4a9ba1d95e6c6147f7f, type: 2}
   onStartTurnActions: []
   onEndTurnActions: []
