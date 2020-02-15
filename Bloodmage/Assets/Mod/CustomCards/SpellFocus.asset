@@ -14,7 +14,8 @@ MonoBehaviour:
   path: Assets/Mod/CustomCards/SpellFocus.asset
   modId: 
   localizationKey: 
-  additionalKeywords: []
+  additionalKeywords:
+  - {fileID: 11400000, guid: 56d03cef579b749aabbdb0c22c25cd8b, type: 2}
   material: {fileID: 2100000, guid: a950e97b70e5d7949b9aee3e2d593688, type: 2}
   gold: 0
   price: 0

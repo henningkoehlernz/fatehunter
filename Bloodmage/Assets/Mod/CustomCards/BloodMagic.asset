@@ -14,7 +14,8 @@ MonoBehaviour:
   path: Assets/Mod/CustomCards/BloodMagic.asset
   modId: 
   localizationKey: 
-  additionalKeywords: []
+  additionalKeywords:
+  - {fileID: 11400000, guid: b87cd255f1a7a4e87a7a08be3ae2c6de, type: 2}
   material: {fileID: 2100000, guid: a4aa998a7c07d440c9110ce8d60d4c5e, type: 2}
   gold: 0
   price: 0

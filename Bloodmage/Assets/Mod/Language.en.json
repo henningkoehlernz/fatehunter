@@ -58,6 +58,14 @@
         },
 
         {
+            "key": "KeyBloodMagicInfoTitle",
+            "value": "Infuse"
+        },
+        {
+            "key": "KeyBloodMagicInfoText",
+            "value": "Upgrade a skill and lower max HP by 1. Most bloodmage skills are infusable (see tooltip)."
+        },
+        {
             "key": "KeyInfusableTitle",
             "value": "Infusable"
         },
@@ -80,6 +88,14 @@
         {
             "key": "KeySpellText",
             "value": "Benefits from Spell Focus."
+        },
+        {
+            "key": "KeySpellFocusInfoTitle",
+            "value": "Spells"
+        },
+        {
+            "key": "KeySpellFocusInfoText",
+            "value": "Most bloodmage skills are spells (see tooltip)."
         },
 
         {
@@ -122,7 +138,7 @@
         },
         {
             "key": "HiddenReservesText",
-            "value": "Lose 1 HP and deal 5 damage to 2 random creatures. If exiled, raise max HP by 2 and upgrade Blood Magic."
+            "value": "Lose 1 HP and deal 5 damage to 2 random creatures. If exiled, draw and upgrade Blood Magic and raise max HP by 2."
         },
 
         {
