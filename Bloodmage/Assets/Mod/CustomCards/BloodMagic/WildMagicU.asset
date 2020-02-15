@@ -9,9 +9,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 88fef69b49fcba240b36f7a3a717cc53, type: 3}
-  m_Name: BloodMagic
+  m_Name: WildMagicU
   m_EditorClassIdentifier: 
-  path: Assets/Mod/CustomCards/BloodMagic.asset
+  path: Assets/Mod/CustomCards/BloodMagic/WildMagicU.asset
   modId: 
   localizationKey: 
   additionalKeywords: []
@@ -21,16 +21,15 @@ MonoBehaviour:
   type: 2
   additionalType: 0
   rarity: 0
-  upgrade: {fileID: 11400000, guid: 649d70cd62f7c41c1aae7c237f08e9a0, type: 2}
+  upgrade: {fileID: 0}
   downgrade: {fileID: 0}
   handLock: 0
   limited: 0
-  canBeExiled: 0
+  canBeExiled: 1
   actions:
   - {fileID: 11400000, guid: f6386d8160bb24466b9b3621c4384610, type: 2}
-  - {fileID: 11400000, guid: 8d765b19cbb7741ac8f5279d106badca, type: 2}
-  ultimateActions:
-  - {fileID: 11400000, guid: ab6e4b7b9430d4b49b1158bec9b7a2e1, type: 2}
+  - {fileID: 11400000, guid: 0697e6454895b47fd9d40749b4db1ead, type: 2}
+  ultimateActions: []
   onStartTurnActions: []
   onEndTurnActions: []
   onRoomChangedActions: []
@@ -42,5 +41,5 @@ MonoBehaviour:
   auras: []
   possibleCards: []
   actionAfterPlaying: 0
-  vfxType: 2
+  vfxType: 0
   playSfx: {fileID: 0}

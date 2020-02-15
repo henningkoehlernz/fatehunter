@@ -36,6 +36,9 @@ MonoBehaviour:
   onCardPlayedActions: []
   discardActions: []
   exileActions:
+  - {fileID: 11400000, guid: bcb304495ed3c4457ba5b8d665ea3563, type: 2}
+  - {fileID: 11400000, guid: 1507d77a34d8b4fa6b09c67f2861382e, type: 2}
+  - {fileID: 11400000, guid: 25ce1c998994942c3a93ec42d80b1b76, type: 2}
   - {fileID: 11400000, guid: e7038e066fc9e404ab7b040b3db9237e, type: 2}
   - {fileID: 11400000, guid: e7038e066fc9e404ab7b040b3db9237e, type: 2}
   onTakeDamageActions: []
