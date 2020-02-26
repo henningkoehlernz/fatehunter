@@ -2,43 +2,43 @@
     "items": [
         {
             "key": "WardenTitle",
-            "value": "Warden"
+            "value": "Wächter"
         },
         {
             "key": "WardenText",
-            "value": "A heavily armored guardian capable of surviving even the most grievous injuries."
+            "value": "Ein schwer gepanzerter Krieger der selbst schwere Wunden leicht wegstecken kann."
         },
         {
             "key": "WardenAbilityTitle",
-            "value": "Juggernaut"
+            "value": "Koloss"
         },
         {
             "key": "WardenAbilityText",
-            "value": "Draws 4 cards and heals 1 HP each turn."
+            "value": "Zieht jede Runde 4 Karten und heilt 1 TP."
         },
         {
             "key": "InfernalContractWardenTitle",
-            "value": "Infernal Contract"
+            "value": "Höllischer Vertrag"
         },
         {
             "key": "InfernalContractWardenText",
-            "value": "<b>One Use.</b> Exile all skills, then delve 5. Lower max HP by 4."
+            "value": "<b>Einmal Verwendbar.</b> Schicke alle Fertigkeiten ins Exil. Suche 5 Fertigkeiten aus. Reduziere dein TP-Maximum um 4."
         },
         {
             "key": "AssaultTitle",
-            "value": "Assault"
+            "value": "Angriff"
         },
         {
             "key": "AssaultText",
-            "value": "<b>Critical Strike.</b> Deal 2 damage. Draw 1 more card next turn."
+            "value": "<b>Kritischer Treffer.</b> Füge einer Kreatur 2 Schaden zu. Ziehe im nächsten Zug 1 Karte mehr."
         },
         {
             "key": "BonusFeatsTitle",
-            "value": "Bonus Feats"
+            "value": "Zusatz Fertigkeiten"
         },
         {
             "key": "BonusFeatsText",
-            "value": "<b>One Use.</b> Gain a copy of each non-heroic skill."
+            "value": "<b>Einmal Verwendbar.</b> Füge eine Kopie jeder nicht-heroischen Fertigkeit hinzu."
         },
         {
             "key": "TrainingTitle",
@@ -46,47 +46,47 @@
         },
         {
             "key": "TrainingText",
-            "value": "<b>One Use.</b> Lose 5 HP. Raise max HP by 1."
+            "value": "<b>Einmal Verwendbar.</b> Verliere 5 TP. Erhöhe dein TP-Maximum um 1."
         },
         {
             "key": "ButcheryTitle",
-            "value": "Butchery"
+            "value": "Gemetzel"
         },
         {
             "key": "ButcheryText",
-            "value": "Deal 1 damage to all enemies. If your deck has 30+ cards, deal 3 damage."
+            "value": "Füge allen Kreaturen 1 Schaden zu. Wenn dein Deck 30+ Karten enthält, füge 3 Schaden zu."
         },
         {
             "key": "GritTitle",
-            "value": "Grit"
+            "value": "Zähigkeit"
         },
         {
             "key": "GritText",
-            "value": "<b>Permanent. Unplayable. Reserve.</b> When facing 2+ enemies at end of turn, heal 1 HP."
+            "value": "<b>Permanent. Nicht spielbar. Reserve.</b> Wenn am Ende der Runde 2+ Kreaturen überleben, heile 1 TP."
         },
         {
             "key": "DefensiveStanceTitle",
-            "value": "Defensive Stance"
+            "value": "Defensive Haltung"
         },
         {
             "key": "DefensiveStanceText",
-            "value": "Reduce the attack of all creatures by 1. Gain a shield. Draw one less card next turn."
+            "value": "Reduzieren den Angriff aller Kreaturen um 1. Erhalte ein Schild. Ziehe im nächsten Zug 1 Karte weniger."
         },
         {
             "key": "OverwhelmTitle",
-            "value": "Overwhelm"
+            "value": "Überwältigung"
         },
         {
             "key": "OverwhelmText",
-            "value": "For every copy in your deck, draw a card and lose 1 HP."
+            "value": "Für jede Kopie in deinem Deck, ziehe 1 Karte und verliere 1 TP."
         },
         {
             "key": "SmashTitle",
-            "value": "Smash"
+            "value": "Wilder Schlag"
         },
         {
             "key": "SmashText",
-            "value": "Deal 3 damage. Deal 1 damage per 10 cards in your deck to a random target."
+            "value": "Füge einer Kreatur 3 Schaden zu. Fuege einer zufälligen Kreatur 1 Schaden pro 10 Karten in deinem Deck zu."
         }
     ]
 }
