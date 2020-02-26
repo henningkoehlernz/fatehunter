@@ -2,143 +2,143 @@
     "items": [
         {
             "key": "BloodMageTitle",
-            "value": "Bloodmage"
+            "value": "Blutmagier"
         },
         {
             "key": "BloodMageText",
-            "value": "An arcane caster fueling spells with their own blood. This grants powerful effects, but weakens the bloodmage."
+            "value": "Ein Zauberer der seine Sprüche mit Blut verstärkt."
         },
         {
             "key": "BloodMageAbilityTitle",
-            "value": "Infuse"
+            "value": "Verstärkung"
         },
         {
             "key": "BloodMageAbilityText",
-            "value": "Infusing a skill permanently empowers its effect, but reduces max HP by 1. If an infused skill is exiled, the lost HP is restored."
+            "value": "Verbessere eine Fähigkeit permanent, und reduziere TP-Maximum um 1. Wenn eine verstärkte Fähigkeit ins Exil geschickt wird, wird das TP-Maximum wieder erhöht."
         },
         {
             "key": "BloodMagicTitle",
-            "value": "Blood Magic"
+            "value": "Blut Magie"
         },
         {
             "key": "BloodMagicText",
-            "value": "<b>Permanent. Choose One</b> - Infuse a skill in your hand; Lose 1 HP and deal 5 damage to a random creature."
+            "value": "<b>Permanent. Wähle eins</b> - Verstärke eine Fähigkeit in deiner Hand; Verliere 1 TP und füge einer zufälligen Kreatur 5 Schaden zu."
         },
         {
             "key": "BloodMagicUTitle",
-            "value": "Blood Magic"
+            "value": "Blut Magie"
         },
         {
             "key": "BloodMagicUText",
-            "value": "<b>Permanent. Choose One</b> - Infuse a skill in your hand; Lose 1 HP and deal 5 damage to 2 random creatures."
+            "value": "<b>Permanent. Wähle eins</b> - Verstärke eine Fähigkeit in deiner Hand; Verliere 1 TP und füge 2 zufälligen Kreaturen 5 Schaden zu."
         },
         {
             "key": "InfuseTitle",
-            "value": "Infuse"
+            "value": "Verstärkung"
         },
         {
             "key": "InfuseText",
-            "value": "Upgrade a skill in your hand. Lower max HP by 1."
+            "value": "Verbessere eine Fähigkeit in deiner Hand. Reduziere dein TP-Maximum um 1."
         },
         {
             "key": "WildMagicTitle",
-            "value": "Blast"
+            "value": "Zerstörung"
         },
         {
             "key": "WildMagicText",
-            "value": "Lose 1 HP and deal 5 damage to a random creature."
+            "value": "Verliere 1 TP und füge einer zufälligen Kreatur 5 Schaden zu."
         },
         {
             "key": "WildMagicUTitle",
-            "value": "Blast"
+            "value": "Zerstörung"
         },
         {
             "key": "WildMagicUText",
-            "value": "Lose 1 HP and deal 5 damage to 2 random creatures."
+            "value": "Verliere 1 TP und füge 2 zufälligen Kreaturen 5 Schaden zu."
         },
 
         {
             "key": "KeyBloodMagicInfoTitle",
-            "value": "Infuse"
+            "value": "Verstärkung"
         },
         {
             "key": "KeyBloodMagicInfoText",
-            "value": "Upgrade a skill and lower max HP by 1. Most bloodmage skills are infusable (see tooltip)."
+            "value": "Verbessere eine Fähigkeit und reduziere dein TP-Maximum um 1. Fast alle Blut Magier Fähigkeiten sind verstärkbar (siehe Tooltip)."
         },
         {
             "key": "KeyInfusableTitle",
-            "value": "Infusable"
+            "value": "Verstärkbar"
         },
         {
             "key": "KeyInfusableText",
-            "value": "Can be infused with blood magic."
+            "value": "Kann mit Blut Magie verstärkt werden."
         },
         {
             "key": "KeyInfusedTitle",
-            "value": "Infused"
+            "value": "Verstärkt"
         },
         {
             "key": "KeyInfusedText",
-            "value": "If card is exiled, raise max HP by 1."
+            "value": "Wenn die Karte ins Exil geschickt wird, erhöhe dein TP-Maximum um 1."
         },
         {
             "key": "KeySpellTitle",
-            "value": "Spell"
+            "value": "Zauber"
         },
         {
             "key": "KeySpellText",
-            "value": "Benefits from Spell Focus."
+            "value": "Schaden kann mit Zauber Focus erhöht werden."
         },
         {
             "key": "KeySpellFocusInfoTitle",
-            "value": "Spells"
+            "value": "Zauber"
         },
         {
             "key": "KeySpellFocusInfoText",
-            "value": "Most bloodmage skills are spells (see tooltip)."
+            "value": "Fast alle Blut Magier Fähigkeiten sind Zauber (siehe Tooltip)."
         },
 
         {
             "key": "InfernalContractBloodMageTitle",
-            "value": "Blood Pact"
+            "value": "Blut Pakt"
         },
         {
             "key": "InfernalContractBloodMageText",
-            "value": "<b>One Use.</b> Draw and infuse all infusable skills from your deck. Take 1 damage per skill infused."
+            "value": "<b>Einmal Verwendbar.</b> Ziehe und verstärke all verstärkbaren Fähigkeiten. Verliere 1 TP für jede verstärkte Fähigkeit."
         },
 
         {
             "key": "BloodRageTitle",
-            "value": "Blood Rage"
+            "value": "Blut Wut"
         },
         {
             "key": "BloodRageText",
-            "value": "Gain 4 rage. Draw an infused card. <b>Rage 10:</b> Draw all infused cards in your deck."
+            "value": "Erhalte 4 Wut. Ziehe 1 verstärkte Karte. <b>Wut 10:</b> Ziehe alle verstärkten Karten in deinem Deck."
         },
         {
             "key": "BROptAddTitle",
-            "value": "Blood Rage"
+            "value": "Blut Wut"
         },
         {
             "key": "BROptAddText",
-            "value": "Draw an infused card."
+            "value": "Ziehe 1 verstärkte Karte."
         },
         {
             "key": "BROptSpendTitle",
-            "value": "Blood Rage"
+            "value": "Blut Wut"
         },
         {
             "key": "BROptSpendText",
-            "value": "<b>Rage 10:</b> Draw all infused cards in your deck."
+            "value": "<b>Wut 10:</b> Ziehe alle verstärkten Karten in deinem Deck."
         },
 
         {
             "key": "HiddenReservesTitle",
-            "value": "Hidden Reserves"
+            "value": "Verstäckte Reserven"
         },
         {
             "key": "HiddenReservesText",
-            "value": "Lose 1 HP and deal 5 damage to 2 random creatures. If exiled, draw and upgrade Blood Magic and raise max HP by 2."
+            "value": "Verliere 1 TP und füge 2 zufälligen Kreaturen 5 Schaden zu. Wenn die Karte ins Exil geschickt wird, ziehe und verbessere Blut Magie und erhöhe dein TP-Maximum um 2."
         },
 
         {
@@ -147,152 +147,152 @@
         },
         {
             "key": "PolymorphText",
-            "value": "Replace a random (legendary) weapon with a random (infused) skill."
+            "value": "Ersatze eine zufällige (legendäre) Waffe mit einer zufälligen (verstärkten) Fähigkeit."
         },
 
         {
             "key": "SpellFocusTitle",
-            "value": "Spell Focus"
+            "value": "Zauber Fokus"
         },
         {
             "key": "SpellFocusText",
-            "value": "<b>Permanent. Reserve.</b> The first spell played each turn deals 1 extra damage."
+            "value": "<b>Permanent. Reserve.</b> Der erste Zauber jede Runde fügt 1 Schaden mehr zu."
         },
 
         {
             "key": "AcidSplashTitle",
-            "value": "Acid Splash"
+            "value": "Säurenspritzer"
         },
         {
             "key": "AcidSplashText",
-            "value": "Deal 1 damage."
+            "value": "Füge einer Kreatur 1 Schaden zu."
         },
         {
             "key": "AcidSplashUTitle",
-            "value": "Acid Splash"
+            "value": "Säurenspritzer"
         },
         {
             "key": "AcidSplashUText",
-            "value": "<b>Infused.</b> Deal 2 damage."
+            "value": "<b>Verstärkt.</b> Füge einer Kreatur 2 Schaden zu."
         },
 
         {
             "key": "BestowCurseTitle",
-            "value": "Bestow Curse"
+            "value": "Verfluchung"
         },
         {
             "key": "BestowCurseText",
-            "value": "Reduce the attack of a creature by 1. If it was 0, silence it."
+            "value": "Reduziere den Angriff einer Kreatur um 1. Falls ihr Angriff 0 war, bringe sie zum Schweigen."
         },
         {
             "key": "BestowCurseUTitle",
-            "value": "Bestow Curse"
+            "value": "Verfluchung"
         },
         {
             "key": "BestowCurseUText",
-            "value": "<b>Infused.</b> Reduce the attack of a creature by 2. If it was 0 or 1, silence it."
+            "value": "<b>Verstärkt.</b> Reduziere den Angriff einer Kreatur um 2. Falls ihr Angriff 0 oder 1 war, bringe sie zum Schweigen."
         },
 
         {
             "key": "CallLightningTitle",
-            "value": "Call Lightning"
+            "value": "Geölter Blitz"
         },
         {
             "key": "CallLightningText",
-            "value": "<b>Critical Strike.</b> Deal 1-3 damage. Shuffle this card into the draw pile."
+            "value": "<b>Kritischer Treffer.</b> Füge einer Kreatur 1-3 Schaden zu. Schiebe diese Karte in deinen Ziehstapel."
         },
         {
             "key": "CallLightningUTitle",
-            "value": "Call Lightning"
+            "value": "Geölter Blitz"
         },
         {
             "key": "CallLightningUText",
-            "value": "<b>Infused. Critical Strike.</b> Deal 2-6 damage. Shuffle this card into the draw pile."
+            "value": "<b>Verstärkt. Kritischer Treffer.</b> Füge einer Kreatur 2-6 Schaden zu. Schiebe diese Karte in deinen Ziehstapel."
         },
 
         {
             "key": "CommandTitle",
-            "value": "Command"
+            "value": "Befehl"
         },
         {
             "key": "CommandText",
-            "value": "Choose a Creature. Deal damage equal to its attack to adjacent creatures."
+            "value": "Füge den Nachbarn einer Kreatur ihren Angriff als Schaden zu."
         },
         {
             "key": "CommandUTitle",
-            "value": "Command"
+            "value": "Befehl"
         },
         {
             "key": "CommandUText",
-            "value": "<b>Infused.</b> Choose a Creature. Deal damage equal to its attack to adjacent creatures twice."
+            "value": "<b>Verstärkt.</b> Füge den Nachbarn einer Kreatur zweimal ihren Angriff als Schaden zu."
         },
 
         {
             "key": "DisintegrateTitle",
-            "value": "Disintegrate"
+            "value": "Zerstörung"
         },
         {
             "key": "DisintegrateText",
-            "value": "Deal 1 damage 3 times."
+            "value": "Füge einer Kreatur 3 mal 1 Schaden zu."
         },
         {
             "key": "DisintegrateUTitle",
-            "value": "Disintegrate"
+            "value": "Zerstörung"
         },
         {
             "key": "DisintegrateUText",
-            "value": "<b>Infused.</b> Deal 1 damage 6 times."
+            "value": "<b>Verstärkt.</b> Füge einer Kreatur 6 mal 1 Schaden zu."
         },
 
         {
             "key": "DrainLifeTitle",
-            "value": "Drain Life"
+            "value": "Lebensraub"
         },
         {
             "key": "DrainLifeText",
-            "value": "Deal 2 damage. Heal 1 HP."
+            "value": "Füge einer Kreatur 2 Schaden zu. Heile 1 TP."
         },
         {
             "key": "DrainLifeUTitle",
-            "value": "Drain Life"
+            "value": "Lebensraub"
         },
         {
             "key": "DrainLifeUText",
-            "value": "<b>Infused.</b> Deal 4 damage. Heal 2 HP."
+            "value": "<b>Verstärkt.</b> Füge einer Kreatur 4 Schaden zu. Heile 2 TP."
         },
 
         {
             "key": "FireStormTitle",
-            "value": "Fire Storm"
+            "value": "Feuersturm"
         },
         {
             "key": "FireStormText",
-            "value": "Deal 2 damage to a creature and adjacent ones."
+            "value": "Füge einer Kreatur und benachbarten Kreaturen 2 Schaden zu."
         },
         {
             "key": "FireStormUTitle",
-            "value": "Fire Storm"
+            "value": "Feuersturm"
         },
         {
             "key": "FireStormUText",
-            "value": "<b>Infused.</b> Deal 4 damage to a creature and adjacent ones."
+            "value": "<b>Verstärkt.</b> Füge einer Kreatur und benachbarten Kreaturen 4 Schaden zu."
         },
 
         {
             "key": "FrostbiteTitle",
-            "value": "Frostbite"
+            "value": "Bitterfrost"
         },
         {
             "key": "FrostbiteText",
-            "value": "Deal 1 damage to all creature. Stun creatures with 1 attack or less."
+            "value": "Füge allen Kreaturen 1 Schaden zu. Betäube Kreaturen mit 1 Angriff oder weniger."
         },
         {
             "key": "FrostbiteUTitle",
-            "value": "Frostbite"
+            "value": "Bitterfrost"
         },
         {
             "key": "FrostbiteUText",
-            "value": "<b>Infused.</b> Deal 2 damage to all creature. Stun creatures with 2 attack or less."
+            "value": "<b>Verstärkt.</b> Füge allen Kreaturen 2 Schaden zu. Betäube Kreaturen mit 2 Angriff oder weniger."
         }
     ]
 }
