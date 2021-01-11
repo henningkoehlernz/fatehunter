@@ -14,7 +14,7 @@
         },
         {
             "key": "WardenAbilityText",
-            "value": "Draws 4 cards and heals 1 HP each turn."
+            "value": "Draws 4 cards and heals 1 HP each turn. Heals 1 additional HP when playing 4 cards or less."
         },
         {
             "key": "InfernalContractWardenTitle",

@@ -14,7 +14,7 @@
         },
         {
             "key": "WardenAbilityText",
-            "value": "Zieht jede Runde 4 Karten und heilt 1 TP."
+            "value": "Zieht jede Runde 4 Karten und heilt 1 TP. Heilt einen weiteren TP wenn er 4 Karten oder weniger spielt."
         },
         {
             "key": "InfernalContractWardenTitle",
